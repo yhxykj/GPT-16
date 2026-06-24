@@ -1,0 +1,1049 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/WKTellMe-16
+新文件 <-> 现有文件 : WKEditController.h      ZhuLiVC.h
+新文件 <-> 现有文件 : WKPresentationController.h      DengLuVC.h
+新文件 <-> 现有文件 : AppDelegate.h      AppDelegate.h
+新文件 <-> 现有文件 : WKCollectionDelegateCell.h      CustomZhuliCollectionViewCell.h
+新文件 <-> 现有文件 : WKRegisterView.h      CustomReusableView.h
+新文件 <-> 现有文件 : WKRegisterController.h      DialogueVC.h
+新文件 <-> 现有文件 : WKCustomView.h      DialogueView.h
+新文件 <-> 现有文件 : WKShiyongRegisterController.h      AdvancedVC.h
+新文件 <-> 现有文件 : WKUniversalController.h      HomeChatPageVC.h
+新文件 <-> 现有文件 : WKHomeZuanshiCell.h      DialogueTableViewCell.h
+新文件 <-> 现有文件 : WKCodeCenterCell.h      DialogueAnswerTableViewCell.h
+新文件 <-> 现有文件 : WKDengController.h      VideoPresentationVC.h
+新文件 <-> 现有文件 : WKAdvancedShiyongView.h      ZuanshiView.h
+新文件 <-> 现有文件 : WKRequestAdvancedController.h      PrivacyViewController.h
+新文件 <-> 现有文件 : WKHeaderCell.h      ZuanshiCollectionViewCell.h
+新文件 <-> 现有文件 : WKNewsNewsController.h      ZuanshiPageVC.h
+新文件 <-> 现有文件 : WKDetailsController.h      HomePageVC.h
+新文件 <-> 现有文件 : WKLoadingController.h      ChuangZuoVC.h
+新文件 <-> 现有文件 : WKTellDetailsController.h      HuanYingVC.h
+新文件 <-> 现有文件 : WKChatController.h      DetailsViewController.h
+新文件 <-> 现有文件 : WKObjectCustomController.h      ZhuliNewViewController.h
+新文件 <-> 现有文件 : WKMainObjectController.h      MyViewController.h
+新文件 <-> 现有文件 : WKDetailsReusable.h      RequestData.h
+新文件 <-> 现有文件 : WKObject.h      Reachability.h
+新文件 <-> 现有文件 : WKDengSpeech.h      NSString+UniversalCode.h
+新文件 <-> 现有文件 : WKHuan.h      AppSocket.h
+新文件 <-> 现有文件 : WKModity.h      UniversalTool.h
+新文件 <-> 现有文件 : WKPageObject.h      CustomSpeechObject.h
+新文件 <-> 现有文件 : WKCodeObject.h      UPPayPluginObject.h
+新文件 <-> 现有文件 : WKDetailsView.h      EvaluateView.h
+新文件 <-> 现有文件 : WKYingLoadingController.h      ViewController.h
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : WKRequestAdvancedController.xib      PrivacyViewController.xib
+新文件 <-> 现有文件 : WKDetailsView.xib      EvaluateView.xib
+新文件 <-> 现有文件 : WKUniversalController.xib      HomeChatPageVC.xib
+新文件 <-> 现有文件 : WKHeaderCell.xib      ZuanshiCollectionViewCell.xib
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : WKShiyongRegisterController.xib      AdvancedVC.xib
+新文件 <-> 现有文件 : WKMainObjectController.xib      MyViewController.xib
+新文件 <-> 现有文件 : WKCustomView.xib      DialogueView.xib
+新文件 <-> 现有文件 : WKTellDetailsController.xib      HuanYingVC.xib
+新文件 <-> 现有文件 : WKNewsNewsController.xib      ZuanshiPageVC.xib
+新文件 <-> 现有文件 : WKRegisterController.xib      DialogueVC.xib
+新文件 <-> 现有文件 : WKHomeZuanshiCell.xib      DialogueTableViewCell.xib
+新文件 <-> 现有文件 : WKDetailsController.xib      HomePageVC.xib
+新文件 <-> 现有文件 : WKPresentationController.xib      DengLuVC.xib
+新文件 <-> 现有文件 : WKCodeCenterCell.xib      DialogueAnswerTableViewCell.xib
+新文件 <-> 现有文件 : WKChatController.xib      DetailsViewController.xib
+新文件 <-> 现有文件 : WKAdvancedShiyongView.xib      ZuanshiView.xib
+新文件 <-> 现有文件 : WKObjectCustomController.xib      ZhuliNewViewController.xib
+新文件 <-> 现有文件 : WKDengController.xib      VideoPresentationVC.xib
+新文件 <-> 现有文件 : WKEditController.xib      ZhuLiVC.xib
+新文件 <-> 现有文件 : WKCollectionDelegateCell.xib      CustomZhuliCollectionViewCell.xib
+新文件 <-> 现有文件 : WKLoadingController.xib      ChuangZuoVC.xib
+新文件 <-> 现有文件 : WKDetailsView.m      EvaluateView.m
+新文件 <-> 现有文件 : WKYingLoadingController.m      ViewController.m
+新文件 <-> 现有文件 : WKHuan.m      AppSocket.m
+新文件 <-> 现有文件 : WKCollectionDelegateCell.m      CustomZhuliCollectionViewCell.m
+新文件 <-> 现有文件 : WKUniversalController.m      HomeChatPageVC.m
+新文件 <-> 现有文件 : WKHomeZuanshiCell.m      DialogueTableViewCell.m
+新文件 <-> 现有文件 : WKObject.m      Reachability.m
+新文件 <-> 现有文件 : agreementReusable.gif      loading.gif
+新文件 <-> 现有文件 : WKCodeCenterCell.m      DialogueAnswerTableViewCell.m
+新文件 <-> 现有文件 : WKNewsNewsController.m      ZuanshiPageVC.m
+新文件 <-> 现有文件 : WKDengSpeech.m      NSString+UniversalCode.m
+新文件 <-> 现有文件 : WKDetailsReusable.m      RequestData.m
+新文件 <-> 现有文件 : WKRegisterController.m      DialogueVC.m
+新文件 <-> 现有文件 : WKAdvancedShiyongView.m      ZuanshiView.m
+新文件 <-> 现有文件 : WKPresentationController.m      DengLuVC.m
+新文件 <-> 现有文件 : WKModity.m      UniversalTool.m
+新文件 <-> 现有文件 : WKPageObject.m      CustomSpeechObject.m
+新文件 <-> 现有文件 : WKShiyongRegisterController.m      AdvancedVC.m
+新文件 <-> 现有文件 : WKHeaderCell.m      ZuanshiCollectionViewCell.m
+新文件 <-> 现有文件 : WKEditController.m      ZhuLiVC.m
+新文件 <-> 现有文件 : WKCodeObject.m      UPPayPluginObject.m
+新文件 <-> 现有文件 : AppDelegate.m      AppDelegate.m
+新文件 <-> 现有文件 : WKCustomView.m      DialogueView.m
+新文件 <-> 现有文件 : WKDengController.m      VideoPresentationVC.m
+新文件 <-> 现有文件 : WKRequestAdvancedController.m      PrivacyViewController.m
+新文件 <-> 现有文件 : WKObjectCustomController.m      ZhuliNewViewController.m
+新文件 <-> 现有文件 : WKLoadingController.m      ChuangZuoVC.m
+新文件 <-> 现有文件 : WKRegisterView.m      CustomReusableView.m
+新文件 <-> 现有文件 : WKShiyongRegisterHeader.pch      TellPrefixHeader.pch
+新文件 <-> 现有文件 : WKTellDetailsController.m      HuanYingVC.m
+新文件 <-> 现有文件 : WKDetailsController.m      HomePageVC.m
+新文件 <-> 现有文件 : WKChatController.m      DetailsViewController.m
+新文件 <-> 现有文件 : WKMainObjectController.m      MyViewController.m
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+正在自动获取分析过滤不能修改函数名称集合。。。。。
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: EvaluateView <---替换为---> WKDetailsView
+类名: DengLuVC <---替换为---> WKPresentationController
+类名: ViewController <---替换为---> WKYingLoadingController
+类名: DetailsViewController <---替换为---> WKChatController
+类名: UniversalTool <---替换为---> WKModity
+类名: AppSocket <---替换为---> WKHuan
+类名: MyViewController <---替换为---> WKMainObjectController
+类名: CustomSpeechObject <---替换为---> WKPageObject
+类名: CustomZhuliCollectionViewCell <---替换为---> WKCollectionDelegateCell
+类名: HomeChatPageVC <---替换为---> WKUniversalController
+类名: AdvancedVC <---替换为---> WKShiyongRegisterController
+类名: DialogueTableViewCell <---替换为---> WKHomeZuanshiCell
+类名: ZuanshiCollectionViewCell <---替换为---> WKHeaderCell
+类名: DialogueAnswerTableViewCell <---替换为---> WKCodeCenterCell
+类名: ZhuLiCollectionViewCell <---替换为---> WKCodeCell
+类名: ZhuLiVC <---替换为---> WKEditController
+类名: ZuanshiPageVC <---替换为---> WKNewsNewsController
+类名: RequestData <---替换为---> WKDetailsReusable
+类名: UPPayPluginObject <---替换为---> WKCodeObject
+类名: AppDelegate <---替换为---> AppDelegate
+类名: DialogueView <---替换为---> WKCustomView
+类名: DialogueVC <---替换为---> WKRegisterController
+类名: VideoPresentationVC <---替换为---> WKDengController
+类名: ZuanshiView <---替换为---> WKAdvancedShiyongView
+类名: PrivacyViewController <---替换为---> WKRequestAdvancedController
+类名: NewZhuliCollectionViewCell <---替换为---> WKCenterCell
+类名: ZhuliNewViewController <---替换为---> WKObjectCustomController
+类名: ChuangZuoCollectionViewCell <---替换为---> WKToolPluginCell
+类名: ChuangZuoVC <---替换为---> WKLoadingController
+类名: CustomReusableView <---替换为---> WKRegisterView
+类名: HuanYingVC <---替换为---> WKTellDetailsController
+类名: HomePageVC <---替换为---> WKDetailsController
+
+
+开始替换所有源文件中的类名。。。。。。
+
+宏名称: JS_CUSTOM_SPEED_OBJIECT <---替换为---> ScreenObject
+宏名称: K_UPPAYPLUGIN_OBJECT <---替换为---> EditLoadingRegister_r
+
+
+混淆类名耗时：0.14072203636169434秒
+
+
+混淆图片xml资源耗时：0.3074519634246826秒
+
+
+开始混淆枚举。。。。。。。
+文件: [旧 AppSocket <--> 新 WKHuan] enum: ConnecSocketStatus -> EZEdit
+文件: [旧 AppSocket <--> 新 WKHuan] case: ConnectSuccessCallBack -> EZTable
+文件: [旧 AppSocket <--> 新 WKHuan] case: ConnectFailedCallBack -> EZZuanshiYing
+文件: [旧 AppSocket <--> 新 WKHuan] enum: SocketReceiveType -> EZLogin
+文件: [旧 AppSocket <--> 新 WKHuan] case: ReceiveTypeForMessage -> EZEditE
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] enum: PayPurchStatusType -> OVODialogue
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchSuccess -> OVODelegateModity
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchFailed -> OVOHuan
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchCancel -> OVOPresentationPrefix
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchVerFailed -> OVOToolReusable
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchVerSuccess -> OVOObjectPage
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] case: PayPurchNotArrow -> OVORegister
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+协议: DialogueViewDelegate <---替换为---> FOWKCode
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+WKEditController : UIViewController
+WKPresentationController : UIViewController
+AppDelegate : UIResponder
+WKCollectionDelegateCell : UICollectionViewCell
+WKRegisterView : UICollectionReusableView
+WKRegisterController : UIViewController
+WKCustomView : UIView
+WKShiyongRegisterController : UIViewController
+WKUniversalController : UIViewController
+WKHomeZuanshiCell : UITableViewCell
+WKCodeCenterCell : UITableViewCell
+WKDengController : UIViewController
+WKAdvancedShiyongView : UIView
+WKRequestAdvancedController : UIViewController
+WKHeaderCell : UICollectionViewCell
+WKNewsNewsController : UIViewController
+WKDetailsController : UIViewController
+WKLoadingController : UIViewController
+WKTellDetailsController : UIViewController
+WKChatController : UIViewController
+WKObjectCustomController : UIViewController
+WKMainObjectController : UIViewController
+WKDetailsReusable : NSObject
+Reachability : NSObject
+WKHuan : NSObject
+WKModity : NSObject
+WKPageObject : NSObject
+WKCodeObject : NSObject
+WKDetailsView : UIView
+WKYingLoadingController : UIViewController
+WKCodeCell : UICollectionViewCell
+WKCenterCell : UICollectionViewCell
+WKToolPluginCell : UICollectionViewCell
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+文件: [旧 AppDelegate <--> 新 AppDelegate] 属性:@property (nonatomic, strong) UIWindow *window;属性名称:window
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, copy) NSString *projectID;属性名称:projectID
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, copy) NSString *nameStr;属性名称:nameStr
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, copy) NSString *descriptionStr;属性名称:descriptionStr
+文件: [旧 CustomZhuliCollectionViewCell <--> 新 WKCollectionDelegateCell] 属性:@property (weak, nonatomic) IBOutlet UIImageView *cellImage;属性名称:cellImage
+文件: [旧 CustomZhuliCollectionViewCell <--> 新 WKCollectionDelegateCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *cell_name_label;属性名称:cell_name_label
+文件: [旧 CustomZhuliCollectionViewCell <--> 新 WKCollectionDelegateCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *cell_description_label;属性名称:cell_description_label
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 属性:@property (nonatomic, strong) WKRegisterController *dialogueVC;属性名称:dialogueVC
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 属性:@property (nonatomic, strong) WKShiyongRegisterController *advancedVC;属性名称:advancedVC
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 属性:@property (nonatomic, strong) UIView *ys_view;属性名称:ys_view
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (strong, nonatomic) IBOutlet UIView *boradView;属性名称:boradView
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (weak, nonatomic) IBOutlet UITextView *QuestionText;属性名称:QuestionText
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (weak, nonatomic) IBOutlet UIButton *fasongBtn;属性名称:fasongBtn
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (weak, nonatomic) IBOutlet UILabel *placeholderlabel;属性名称:placeholderlabel
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) WKDetailsView *evaluateView;属性名称:evaluateView
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) WKCustomView *js_headerView;属性名称:js_headerView
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) WKAdvancedShiyongView *zuanView;属性名称:zuanView
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) NSMutableArray *messagesArrray;属性名称:messagesArrray
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) NSTimer *js_timer;属性名称:js_timer
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, assign) NSInteger js_count;属性名称:js_count
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, copy) NSString *socketString;属性名称:socketString
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, assign) BOOL isfirst;属性名称:isfirst
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, strong) UITableView *js_tableView;属性名称:js_tableView
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 属性:@property (nonatomic, assign) CGFloat bottomSafeArea;属性名称:bottomSafeArea
+文件: [旧 CustomReusableView <--> 新 WKRegisterView] 属性:@property (nonatomic, strong) UIImageView *reusableImage;属性名称:reusableImage
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (nonatomic, strong) NSTimer *js_timer;属性名称:js_timer
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (nonatomic, assign) int count;属性名称:count
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 属性:@property (nonatomic, strong) UIImageView *cellImage;属性名称:cellImage
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, assign) BOOL isType;属性名称:isType
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, copy) NSString *nameStr;属性名称:nameStr
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, copy) NSString *typeID;属性名称:typeID
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, copy) NSString *descriptionStr;属性名称:descriptionStr
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, assign) BOOL isCustom;属性名称:isCustom
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 属性:@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;属性名称:collectionView
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 属性:@property (nonatomic, strong) NSMutableArray *zhuliListAry;属性名称:zhuliListAry
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 属性:@property (nonatomic, strong) NSArray *customArray;属性名称:customArray
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 属性:@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;属性名称:collectionView
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 属性:@property (weak, nonatomic) IBOutlet UIScrollView *bigScrollView;属性名称:bigScrollView
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 属性:@property (nonatomic, copy) NSString *order_sn;属性名称:order_sn
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 属性:@property (nonatomic, copy) NSString *product_sn;属性名称:product_sn
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 属性:@property (nonatomic, strong) NSMutableArray *vipList;属性名称:vipList
+文件: [旧 DialogueView <--> 新 WKCustomView] 属性:@property (nonatomic, weak) id<FOWKCode>delegate;属性名称:delegate
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 属性:@property (weak, nonatomic) IBOutlet UIScrollView *bigScrollView;属性名称:bigScrollView
+文件: [旧 AppSocket <--> 新 WKHuan] 属性:@property (nonatomic, strong) SRWebSocket *webSocket;属性名称:webSocket
+文件: [旧 AppSocket <--> 新 WKHuan] 属性:@property (nonatomic, assign) EZEdit status;属性名称:status
+文件: [旧 AppSocket <--> 新 WKHuan] 属性:@property (nonatomic, copy)ConnectSuccess connect;属性名称:connect
+文件: [旧 AppSocket <--> 新 WKHuan] 属性:@property (nonatomic, copy)ConnectFail fail;属性名称:fail
+文件: [旧 AppSocket <--> 新 WKHuan] 属性:@property (nonatomic,copy)ReceiveMessage receive;属性名称:receive
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 属性:@property (weak, nonatomic) IBOutlet UIView *spvVew;属性名称:spvVew
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 属性:@property (nonatomic, strong) AVPlayerLayer *playerLayer;属性名称:playerLayer
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 属性:@property (nonatomic, strong) AVPlayer *player;属性名称:player
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 属性:@property (nonatomic, strong) id timeObserver;属性名称:timeObserver
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (weak, nonatomic) IBOutlet UIImageView *iconImage;属性名称:iconImage
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *detailsLabel;属性名称:detailsLabel
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (weak, nonatomic) IBOutlet UIImageView *loadingGif;属性名称:loadingGif
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 属性:@property (weak, nonatomic) IBOutlet UIButton *bofangBtn;属性名称:bofangBtn
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (weak, nonatomic) IBOutlet UILabel *titleLabel;属性名称:titleLabel
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (strong, nonatomic) IBOutlet UIView *boradView;属性名称:boradView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (weak, nonatomic) IBOutlet UITextView *QuestionText;属性名称:QuestionText
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (weak, nonatomic) IBOutlet UIButton *fasongBtn;属性名称:fasongBtn
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (weak, nonatomic) IBOutlet UIView *navgationView;属性名称:navgationView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (weak, nonatomic) IBOutlet UILabel *placeholderlabel;属性名称:placeholderlabel
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) WKDetailsView *evaluateView;属性名称:evaluateView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) WKCustomView *js_headerView;属性名称:js_headerView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) WKAdvancedShiyongView *zuanView;属性名称:zuanView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) NSMutableArray *messagesArrray;属性名称:messagesArrray
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) NSTimer *js_timer;属性名称:js_timer
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, assign) NSInteger js_count;属性名称:js_count
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, copy) NSString *socketString;属性名称:socketString
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, assign) BOOL isfirst;属性名称:isfirst
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) UITableView *js_tableView;属性名称:js_tableView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, assign) CGFloat bottomSafeArea;属性名称:bottomSafeArea
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 属性:@property (nonatomic, strong) UILabel *countLabel;属性名称:countLabel
+文件: [旧 UniversalTool <--> 新 WKModity] 属性:@property (nonatomic, assign) NSInteger freeNum;属性名称:freeNum
+文件: [旧 UniversalTool <--> 新 WKModity] 属性:@property (nonatomic, assign) BOOL versionType;属性名称:versionType
+文件: [旧 UniversalTool <--> 新 WKModity] 属性:@property (nonatomic, copy) NSString *bf_content;属性名称:bf_content
+文件: [旧 PrivacyViewController <--> 新 WKRequestAdvancedController] 属性:@property (weak, nonatomic) IBOutlet UILabel *titleLabel;属性名称:titleLabel
+文件: [旧 PrivacyViewController <--> 新 WKRequestAdvancedController] 属性:@property (weak, nonatomic) IBOutlet WKWebView *webView;属性名称:webView
+文件: [旧 DialogueAnswerTableViewCell <--> 新 WKCodeCenterCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *answerLabel;属性名称:answerLabel
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 属性:@property (nonatomic, strong) completeHandler palyFinish;属性名称:palyFinish
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 属性:@property (nonatomic, strong) AVSpeechSynthesizer *synthesizer;属性名称:synthesizer
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 属性:@property (nonatomic, strong) AVSpeechUtterance *utterance;属性名称:utterance
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (nonatomic, strong) UIImageView *cellImage;属性名称:cellImage
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 属性:@property (nonatomic, copy) NSString *trans_id;属性名称:trans_id
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 属性:@property (nonatomic, copy) NSString *current_id;属性名称:current_id
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;属性名称:collectionView
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (weak, nonatomic) IBOutlet UITextField *nameText;属性名称:nameText
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (weak, nonatomic) IBOutlet UILabel *label;属性名称:label
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (weak, nonatomic) IBOutlet UITextView *descriptionText;属性名称:descriptionText
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (weak, nonatomic) IBOutlet UIView *success_view;属性名称:success_view
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (nonatomic, assign) NSInteger selectIndex;属性名称:selectIndex
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 属性:@property (nonatomic, strong) NSArray *images;属性名称:images
+文件: [旧 ZuanshiView <--> 新 WKAdvancedShiyongView] 属性:@property (weak, nonatomic) IBOutlet UIButton *openBtn;属性名称:openBtn
+文件: [旧 EvaluateView <--> 新 WKDetailsView] 属性:@property (weak, nonatomic) IBOutlet UIButton *evaluateBtn;属性名称:evaluateBtn
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 属性:@property (nonatomic, strong) UIImageView *cellImage;属性名称:cellImage
+文件: [旧 PrivacyViewController <--> 新 WKRequestAdvancedController] 属性:@property (nonatomic, copy) NSString *loadingType;属性名称:loadingType
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 属性:@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;属性名称:collectionView
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 属性:@property (nonatomic, strong) NSArray *data;属性名称:data
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *timeLabel;属性名称:timeLabel
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *priceLabel;属性名称:priceLabel
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *yuanjiaLabel;属性名称:yuanjiaLabel
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UILabel *danjiaLabel;属性名称:danjiaLabel
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UIImageView *bgImage;属性名称:bgImage
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 属性:@property (weak, nonatomic) IBOutlet UIImageView *youhuiImage;属性名称:youhuiImage
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIView *bigView;属性名称:bigView
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIButton *tg_btn;属性名称:tg_btn
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 属性:@property (nonatomic, strong) AVPlayerLayer *playerLayer;属性名称:playerLayer
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 属性:@property (nonatomic, strong) AVPlayer *player;属性名称:player
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 属性:@property (nonatomic, strong) id timeObserver;属性名称:timeObserver
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIScrollView *bigScrollView;属性名称:bigScrollView
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIView *itemView;属性名称:itemView
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIImageView *home_title;属性名称:home_title
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (weak, nonatomic) IBOutlet UIButton *gb_duihua_btn;属性名称:gb_duihua_btn
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (nonatomic, strong) WKUniversalController *homeVC;属性名称:homeVC
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (nonatomic, strong) WKLoadingController *chuanzuoVC;属性名称:chuanzuoVC
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 属性:@property (nonatomic, strong) WKEditController *zhuliVC;属性名称:zhuliVC
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UILabel *descriptionlabel;属性名称:descriptionlabel
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UITextView *QuestionText;属性名称:QuestionText
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UITextView *AnswerText;属性名称:AnswerText
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UILabel *titleLabel;属性名称:titleLabel
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UIButton *generateBtn;属性名称:generateBtn
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (weak, nonatomic) IBOutlet UIImageView *gifimage;属性名称:gifimage
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, strong) WKAdvancedShiyongView *zuanView;属性名称:zuanView
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, copy) NSString *socketString;属性名称:socketString
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, strong) NSTimer *js_timer;属性名称:js_timer
+文件: [旧 DetailsViewController <--> 新 WKChatController] 属性:@property (nonatomic, assign) NSInteger js_count;属性名称:js_count
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 属性:@property (weak, nonatomic) IBOutlet UILabel *hy_status_label;属性名称:hy_status_label
+
+
+开始自动修改Assets图片资源。。。。。。。
+homeHead       ---替换为--->       ksrmZuanshi
+change_btn_gj       ---替换为--->       createGexing
+sy_title_gj       ---替换为--->       newsEditGuanbi
+Aimage       ---替换为--->       zygwNormal
+Qimage       ---替换为--->       fuzhiPrivacy
+fasong       ---替换为--->       qimageEvaluateYouhui
+my_set       ---替换为--->       haopingQiming
+sy_title_jc       ---替换为--->       zhulicloseToolZhoubao
+change_btn_jc       ---替换为--->       selectGuanbi
+hy_close       ---替换为--->       zongjieXxgwXinqing
+Evaluate       ---替换为--->       prefix_ueZuanshi
+zs_tequan       ---替换为--->       modityYsxyDenglubg
+youhui       ---替换为--->       yinsiEvaluateDetails
+select       ---替换为--->       jiaoanJiriLycx
+agreement       ---替换为--->       dismissXzzb
+sure       ---替换为--->       snzxQuweiJiaoan
+pocket       ---替换为--->       shiyongBack
+zuanshibg       ---替换为--->       videoModity
+dismiss       ---替换为--->       jiriGuanggao
+normal       ---替换为--->       selectShigeDelete_n
+denglubg       ---替换为--->       normalHeadJsjl
+icon_xy       ---替换为--->       jiaoanCreate
+broadcast2       ---替换为--->       srcfSelect
+cell_bg       ---替换为--->       zuanshibgScgs
+back       ---替换为--->       detailsRequestPrivacy
+icon_ksrm       ---替换为--->       changeData
+denglubtn       ---替换为--->       evaluateJsjl
+icon_tg       ---替换为--->       launchSocket
+syjc       ---替换为--->       scgsZongjieBack
+icon_ysxy       ---替换为--->       chuangClose
+guanbi       ---替换为--->       zhoubaoSureData
+fuzhi       ---替换为--->       zygwPocket
+zuanshi       ---替换为--->       modityShiyong
+icon_qk       ---替换为--->       cpjlLoading
+mybg       ---替换为--->       createXiaoshuo
+start-up       ---替换为--->       videoCpjlTequan
+Jiaoan       ---替换为--->       zygwQimage
+Dianying       ---替换为--->       normalBackChange
+Quwei       ---替换为--->       qimageSureFlgw
+Xiezuo       ---替换为--->       fasongDenglubtn
+Guanggao       ---替换为--->       ysxyXxgwXzzb
+Douyin       ---替换为--->       shigeSelectGuanggao
+Paishe       ---替换为--->       zongjieEvaluate
+Xinqing       ---替换为--->       xiaoshuoZygw
+Fayangao       ---替换为--->       answerXiezuoSpeech
+Xueke       ---替换为--->       fuzhiFuzhiClose
+Qiming       ---替换为--->       xxgwLaunchYsxy
+Koubo       ---替换为--->       zhulibtnAgreementSure
+Qiuzhi       ---替换为--->       mybgReusableReusable
+Gexing       ---替换为--->       xxgwObjectSnzx
+Zhoubao       ---替换为--->       jsjlUniversalCpjl
+Fanyi       ---替换为--->       cpjlRequest
+Xiaoshuo       ---替换为--->       yinsiAimagePrivacy
+Jiri       ---替换为--->       loginPage
+Hetong       ---替换为--->       kouboTable
+Haoping       ---替换为--->       kouboCpjlJsjl
+Shige       ---替换为--->       qiuzhiTzgwFanyi
+Zongjie       ---替换为--->       flgwZuanshi
+zl_new_card       ---替换为--->       zuanshiSpeechShiyong
+ITzj       ---替换为--->       sureHaopingShiyong
+scgs       ---替换为--->       fasongDengZhuliclose
+zl_create       ---替换为--->       xxgwCodeDianying
+xxgw       ---替换为--->       normalFayangao
+lycx       ---替换为--->       jiriHeader
+zygw       ---替换为--->       tzgwJiaoanNews
+tzgw       ---替换为--->       zygwFayangao
+jgs       ---替换为--->       reusableZhuli
+msg       ---替换为--->       homeTellPlugin
+zl_new       ---替换为--->       jsjlDengYsxy
+cpjl       ---替换为--->       youhuiSyjc
+jsjl       ---替换为--->       openDelegate_ai
+zhulibg       ---替换为--->       launchTableFanyi
+xzzb       ---替换为--->       privacyTool
+srcf       ---替换为--->       zhoubaoMain
+zxs       ---替换为--->       createZhoubao
+fdc       ---替换为--->       tequanAdvancedShiyong
+zhuli_new_section       ---替换为--->       createCreateFanyi
+snzx       ---替换为--->       fasongDialogueScgs
+flgw       ---替换为--->       modityDelete_tZuanshibg
+kjs       ---替换为--->       qimageTequan
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 EvaluateView <--> 新 WKDetailsView]   函数名称: evaluateBtnClick
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: FuzhiAnswerClick
+文件: [旧 EvaluateView <--> 新 WKDetailsView]   函数名称: dismissClick
+文件: [旧 DengLuVC <--> 新 WKPresentationController]   函数名称: denglu
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: js_createTimer
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: refreshAnswer
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: sendSocketMessage
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: backClick
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: enterZuanshiDetails
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: destructionTimer
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: timerAction
+文件: [旧 DetailsViewController <--> 新 WKChatController]   函数名称: generatedWenanClick
+文件: [旧 MyViewController <--> 新 WKMainObjectController]   函数名称: zuanshiClick
+文件: [旧 MyViewController <--> 新 WKMainObjectController]   函数名称: backClick
+文件: [旧 MyViewController <--> 新 WKMainObjectController]   函数名称: yinsiClick
+文件: [旧 MyViewController <--> 新 WKMainObjectController]   函数名称: kuaisuClick
+文件: [旧 MyViewController <--> 新 WKMainObjectController]   函数名称: deleteClick
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: deleteHistoryChat
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: refreshTablelist
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController]   函数名称: yanshiBtnClick
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: scrollTableTotheBottom
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController]   函数名称: guanbiBtnClick
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: fasongClick
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: js_createTimer
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: timerAction
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: enterZuanshiDetails
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: textViewHeightForText
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: destructionTimer
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]   函数名称: sendSocketMessage
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell]   函数名称: js_timerAction
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell]   函数名称: bofangYuyinClick
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell]   函数名称: fuzhiClick
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell]   函数名称: substring
+文件: [旧 ZhuLiVC <--> 新 WKEditController]   函数名称: addNewZhichi
+文件: [旧 Reachability <--> 新 WKObject]   函数名称: networkStatusForFlags
+文件: [旧 ZhuLiVC <--> 新 WKEditController]   函数名称: getZhuliDetailWithData
+文件: [旧 ZhuLiVC <--> 新 WKEditController]   函数名称: changZhuliClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: restoreBuy
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: handleActionWithType
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: handleActionWithType
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: toJsonData
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: verifyPurchaseWithPaymentTransaction
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: ContinuousMonthlyServiceClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: failedTransaction
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: getAlreadyUseBankNo
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: removeAllUncompleteTransactionBeforeStartNewTransaction
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: checkTheStatusOftheOrder
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: backClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: getExpirationDateForPurchase
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: onceClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]   函数名称: validateReceiptWithData
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: generateNewOrderNo
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: subscribeNowClick
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: privacyPolicyClick
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]   函数名称: termsOfUseClick
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech]   函数名称: _descriptionWithLocale
+文件: [旧 DialogueView <--> 新 WKCustomView]   函数名称: defalutQuestionClick
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech]   函数名称: _description
+文件: [旧 DialogueView <--> 新 WKCustomView]   函数名称: homeData
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech]   函数名称: _descriptionWithLocale
+文件: [旧 VideoPresentationVC <--> 新 WKDengController]   函数名称: backBtnClick
+文件: [旧 RequestData <--> 新 WKDetailsReusable]   函数名称: requestHeader
+文件: [旧 PrivacyViewController <--> 新 WKRequestAdvancedController]   函数名称: backClick
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: enterZuanshiDetails
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: howTimesCanStillforFree
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: js_createTimer
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: refreshTablelist
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: backClick
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController]   函数名称: zlNewClick
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: deleteHistoryChat
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController]   函数名称: backClick
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: sendSocketMessage
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: destructionTimer
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: getNumberOfUse
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: timerAction
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: scrollTableTotheBottom
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: textViewHeightForText
+文件: [旧 DialogueVC <--> 新 WKRegisterController]   函数名称: fasongClick
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController]   函数名称: myLocalData
+文件: [旧 ZuanshiView <--> 新 WKAdvancedShiyongView]   函数名称: hiddenClick
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController]   函数名称: playerItemDidReachEnd
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController]   函数名称: tiaoguoClick
+文件: [旧 HomePageVC <--> 新 WKDetailsController]   函数名称: gaibianGuihuaLeixing
+文件: [旧 HomePageVC <--> 新 WKDetailsController]   函数名称: getMyZiliao
+文件: [旧 HomePageVC <--> 新 WKDetailsController]   函数名称: zuanshiClick
+文件: [旧 HomePageVC <--> 新 WKDetailsController]   函数名称: myClick
+文件: [旧 HomePageVC <--> 新 WKDetailsController]   函数名称: chooseTitles
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: obj -> termsObj
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: pasteboard -> details
+文件: [旧 AppSocket <--> 新 WKHuan] 局部变量: onceToken -> observer
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: account -> zuanshi
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: text -> deng
+文件: [旧 AppSocket <--> 新 WKHuan] 局部变量: string -> content
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: range -> null_nq
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: data -> dengd
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 局部变量: videoVC -> dialogueController
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: token -> back
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: timestamp -> start
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: vc -> receiveController
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 局部变量: iconImage -> chuangImage
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: host -> zuanshi
+文件: [旧 DengLuVC <--> 新 WKPresentationController] 局部变量: nav -> destructionView
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 局部变量: ys_button -> evaluateButton
+文件: [旧 DetailsViewController <--> 新 WKChatController] 局部变量: zuanshiVC -> gifController
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: gifPath -> disappear
+文件: [旧 HomeChatPageVC <--> 新 WKUniversalController] 局部变量: gb_button -> collectionButton
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: gifData -> screen
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: gifImage -> reachImage
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: vc -> receiveController
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: number -> timer
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: vc -> receiveControllerB
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell] 局部变量: pasteboard -> detailsw
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: date -> register_r8
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: videoVC -> dialogueController
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: timeStr -> fasong
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: returnValue -> evaluate
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: obj -> termsObj
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: alertController -> a_imageController
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: reachability -> wenan
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: cancelAction -> utterance
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: reachability -> wenanE
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: device -> date
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: returnValue -> evaluatek
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: okAction -> interface
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: tellme_key -> yuanjia
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: returnValue -> evaluate3
+文件: [旧 MyViewController <--> 新 WKMainObjectController] 局部变量: typeID -> loading
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: tellme_key_current -> dismiss
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: context -> collection
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: uuid -> speed
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: returnValue -> evaluatem
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: string -> content
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: flags -> t_center
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: sharedAccountManagerInstance -> product
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: returnValue -> evaluate_
+文件: [旧 UniversalTool <--> 新 WKModity] 局部变量: predicate -> deng
+文件: [旧 Reachability <--> 新 WKObject] 局部变量: flags -> t_centerM
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 局部变量: utterance -> advanced
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: vc -> receiveController
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 局部变量: voice -> area
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: obj -> termsObj
+文件: [旧 CustomSpeechObject <--> 新 WKPageObject] 局部变量: onceToken -> observer
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: cell -> pageCell
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: obj -> termsObjr
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: code -> web
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: obj -> termsObj
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: data -> dengd
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: cell -> pageCell
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: dic -> tabley
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: cell -> pageCellY
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: layout -> yuyin
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: dic -> tabley
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: lastRow -> from
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: alertController -> a_imageController
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: lastIndexPath -> delete_n
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: qx_Action -> delegate_jq
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: qr_Action -> array
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: height -> monthly
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: receipt -> list
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: zuanshiVC -> gifController
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: obj -> termsObjb
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: attributes -> h_center
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: dic -> tabley5
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: safeAreaInsets -> ary
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: obj -> termsObjg
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: url -> descriptionlabel
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: status_bar_height -> ofthe
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: obj -> termsObjk
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: code -> webq
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: array -> chuanzuo
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: vc -> receiveControllern
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController] 局部变量: vc -> receiveControllere
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: dic -> tableyU
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech] 局部变量: convertedString -> uncomplete
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: obj -> termsObjh
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: timestamp -> start
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: reachability -> wenan
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: networkStatus -> interface
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController] 局部变量: host -> zuanshi
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: onceToken -> observer
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: token -> back
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell] 局部变量: subString -> gifimage
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: dic -> tabley
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: String -> loading
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: array -> chuanzuo
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: obj -> termsObj
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: code -> web
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: vc -> receiveController
+文件: [旧 RequestData <--> 新 WKDetailsReusable] 局部变量: responseDict -> navgation
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: newVC -> internetController
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: zhuli -> zuanshi
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: headerView -> i_objectView
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: zuanshiVC -> gifController
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: layout -> yuyin
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: number -> timer
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: obj -> termsObj6
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: listAry -> big
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: obj -> termsObj
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: cell -> pageCell
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: obj -> termsObj4
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: cell -> pageCell
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: cell -> pageCellF
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: array -> chuanzuoe
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: dic -> tabley
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: safeAreaInsets -> aryz
+文件: [旧 ZhuLiVC <--> 新 WKEditController] 局部变量: cell -> pageCellc
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: status_bar_height -> ofthe
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: array -> chuanzuo
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: dic -> tabley
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: onceToken -> observer
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: dic -> tableyz
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: jsonStr -> header
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: dic -> tableyP
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: obj -> termsObjn
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: recepitURL -> bofang
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: timestamp -> start
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: host -> zuanshi
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: receipt -> list
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: number -> timerh
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: height -> monthly
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: error -> presentation
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: obj -> termsObjL
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: data -> dengd
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: requestContents -> denglu
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: lastRow -> from
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: lastIndexPath -> delete_n
+文件: [旧 DialogueVC <--> 新 WKRegisterController] 局部变量: attributes -> h_center
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: requestData -> modity
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: serverString -> main_d
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: storeURL -> chuang
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: storeRequest -> path
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: session -> name
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: task -> text
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: jsonResponse -> queuei
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: status -> arrray
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: productId -> deng
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: pending_renewal_info -> zuanshi
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: latest_pending_renewal_dic -> isfirst
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: latest_receipt_ary -> wenan
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: invoke -> order
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: expires_date_ms -> receive
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: nowTime -> tool
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: last_dic -> serial
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: expires_date_ms -> receiveL
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: product -> generate
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: p -> numerical
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: transactions -> zuanshil
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: transaction -> e_count
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: originalTransaction -> zuanshit
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: receiptData -> tiaoguo
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: latestReceiptInfo -> delegate_a
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: expirationDateStr -> receiveT
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: dateFormatter -> dengA
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject] 局部变量: expirationDate -> deng5
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: token -> back
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: vc -> receiveController
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: nav -> destructionView
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: vc -> receiveControllerK
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: vc -> receiveControllerd
+文件: [旧 DialogueView <--> 新 WKCustomView] 局部变量: array -> chuanzuo
+文件: [旧 DialogueView <--> 新 WKCustomView] 局部变量: array -> chuanzuok
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 局部变量: backBtn -> requestBtn
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 局部变量: videoPath -> verify
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 局部变量: videoURL -> gaibian
+文件: [旧 VideoPresentationVC <--> 新 WKDengController] 局部变量: playerItem -> privacyItem
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: cell -> pageCell
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: imageName -> placeholderlabel
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: attributes -> h_center
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: attributedText -> handle
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: layout -> yuyin
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: headUrl -> j_count
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController] 局部变量: obj -> termsObj
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: array -> chuanzuo
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: dic -> tabley
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: vc -> receiveController
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: layout -> yuyin
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: headerView -> i_objectView
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: array -> chuanzuoR
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: dic -> tableyV
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController] 局部变量: cell -> pageCell
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: playerItem -> privacyItem
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: vc -> receiveController
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: nav -> destructionView
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: videoPath -> verify
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: videoURL -> gaibian
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: playerItem -> privacyItem4
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: vc -> receiveControllerf
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController] 局部变量: nav -> destructionViewj
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: obj -> termsObj
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: data -> dengd
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: vc -> receiveController
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: myVC -> observerController
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: x_offset -> utterance
+文件: [旧 HomePageVC <--> 新 WKDetailsController] 局部变量: button -> danjiaButton
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: ChuangZuoVC -> new: WKLoadingController] insert  @property(nonatomic, assign)double  vewMax;
+@property(nonatomic, copy)NSString *  delegate_xqOnceModity_str;
+
+[old: ZhuLiVC -> new: WKEditController] insert  @property(nonatomic, copy)NSArray *  arrrayVideoArray;
+@property(nonatomic, assign)long  fitsCount;
+@property(nonatomic, assign)BOOL  has_Request;
+
+[old: EvaluateView -> new: WKDetailsView] insert  @property(nonatomic, assign)int  deng_idx;
+@property(nonatomic, assign)NSInteger  strIndex;
+@property(nonatomic, assign)double  launchMargin;
+
+[old: DengLuVC -> new: WKPresentationController] insert  @property(nonatomic, assign)NSInteger  utterance_count;
+@property(nonatomic, assign)double  utteranceOffset;
+@property(nonatomic, assign)int  item_idx;
+@property(nonatomic, assign)long  shiyong_flag;
+
+[old: HuanYingVC -> new: WKTellDetailsController] insert  @property(nonatomic, assign)int  descriptionlabel_flag;
+@property(nonatomic, copy)NSArray *  zuanReceiveOnceList;
+@property(nonatomic, assign)long  btnCount;
+
+[old: DengLuVC -> new: WKPresentationController] insert  @property(nonatomic, assign)double  index_padding;
+@property(nonatomic, assign)BOOL  has_Label;
+@property(nonatomic, assign)long  codeTag;
+
+[old: ViewController -> new: WKYingLoadingController] insert  @property(nonatomic, assign)double  huanMax;
+@property(nonatomic, assign)double  json_margin;
+@property(nonatomic, assign)BOOL  enbale_Yuanjia;
+
+[old: CustomSpeechObject -> new: WKPageObject] insert  @property(nonatomic, copy)NSString *  tellmeDetailsStr;
+@property(nonatomic, assign)float  shared_space;
+
+[old: DetailsViewController -> new: WKChatController] insert  @property(nonatomic, assign)BOOL  enbaleChuang;
+@property(nonatomic, copy)NSArray *  numViewList;
+@property(nonatomic, assign)double  messages_size;
+@property(nonatomic, assign)double  yingSpace;
+
+[old: AppDelegate -> new: AppDelegate] insert  @property(nonatomic, assign)NSInteger  changSum;
+@property(nonatomic, assign)double  address_min;
+@property(nonatomic, copy)NSArray *  codeLayerPolicy_arr;
+@property(nonatomic, assign)double  launch_size;
+
+[old: ZhuliNewViewController -> new: WKObjectCustomController] insert  @property(nonatomic, assign)long  s_count;
+@property(nonatomic, assign)long  login_sum;
+@property(nonatomic, assign)float  chuang_margin;
+
+[old: AppSocket -> new: WKHuan] insert  @property(nonatomic, assign)BOOL  hasVip;
+@property(nonatomic, assign)BOOL  isFree;
+@property(nonatomic, assign)BOOL  can_Guihua;
+
+[old: AdvancedVC -> new: WKShiyongRegisterController] insert  @property(nonatomic, assign)float  locale_min;
+@property(nonatomic, assign)double  big_max;
+
+[old: MyViewController -> new: WKMainObjectController] insert  @property(nonatomic, assign)long  aryIdx;
+@property(nonatomic, assign)NSInteger  arrray_count;
+@property(nonatomic, assign)BOOL  has_Danjia;
+@property(nonatomic, assign)double  appear_max;
+
+[old: CustomZhuliCollectionViewCell -> new: WKCollectionDelegateCell] insert  @property(nonatomic, assign)int  socket_flag;
+@property(nonatomic, copy)NSString *  itemOnceSelectedString;
+@property(nonatomic, copy)NSArray *  productLoadingArray;
+@property(nonatomic, assign)NSInteger  choose_flag;
+
+[old: HomeChatPageVC -> new: WKUniversalController] insert  @property(nonatomic, assign)double  zuanshi_size;
+@property(nonatomic, copy)NSArray *  observeInterface_Array;
+
+[old: RequestData -> new: WKDetailsReusable] insert  @property(nonatomic, assign)float  serverOffset;
+@property(nonatomic, assign)long  launch_flag;
+
+[old: CustomReusableView -> new: WKRegisterView] insert  @property(nonatomic, assign)NSInteger  loginCount;
+@property(nonatomic, assign)NSInteger  content_index;
+@property(nonatomic, copy)NSArray *  reusablePrefix_eHuanArr;
+@property(nonatomic, copy)NSArray *  tableTiaoguoTransList;
+
+[old: Reachability -> new: WKObject] insert  @property(nonatomic, assign)double  type_s;
+@property(nonatomic, assign)NSInteger  question_count;
+@property(nonatomic, assign)double  f_title;
+
+[old: DialogueTableViewCell -> new: WKHomeZuanshiCell] insert  @property(nonatomic, assign)long  hostIndex;
+@property(nonatomic, copy)NSString *  stopPrefix_j_string;
+@property(nonatomic, assign)double  tellme_size;
+@property(nonatomic, assign)BOOL  can_Gif;
+
+[old: DialogueVC -> new: WKRegisterController] insert  @property(nonatomic, assign)int  orderTag;
+@property(nonatomic, copy)NSArray *  priceBigDestructionArr;
+@property(nonatomic, assign)float  v_image;
+@property(nonatomic, copy)NSArray *  backDescriptionlabelList;
+
+[old: UniversalTool -> new: WKModity] insert  @property(nonatomic, assign)double  utterance_min;
+@property(nonatomic, copy)NSArray *  numericalBackAryArray;
+@property(nonatomic, assign)float  yingMin;
+
+[old: DialogueView -> new: WKCustomView] insert  @property(nonatomic, copy)NSArray *  generatePriceShiyong_Array;
+@property(nonatomic, assign)double  content_margin;
+
+[old: CustomSpeechObject -> new: WKPageObject] insert  @property(nonatomic, assign)double  size_0;
+@property(nonatomic, assign)BOOL  isEdit;
+@property(nonatomic, copy)NSArray *  areaMain_Array;
+
+[old: ZhuLiVC -> new: WKEditController] insert  @property(nonatomic, assign)long  time_td;
+@property(nonatomic, copy)NSString *  toolSelectedStr;
+
+[old: AdvancedVC -> new: WKShiyongRegisterController] insert  @property(nonatomic, copy)NSArray *  productZuanArray;
+@property(nonatomic, assign)int  defalut_tag;
+@property(nonatomic, assign)double  paly_space;
+@property(nonatomic, copy)NSString *  titlesLayer_str;
+
+[old: ZuanshiPageVC -> new: WKNewsNewsController] insert  @property(nonatomic, copy)NSString *  gifimageCenterString;
+@property(nonatomic, assign)NSInteger  toolIdx;
+@property(nonatomic, copy)NSArray *  detailsRefreshApplication_list;
+@property(nonatomic, assign)NSInteger  num_index;
+
+[old: UPPayPluginObject -> new: WKCodeObject] insert  @property(nonatomic, assign)int  evaluate_tag;
+@property(nonatomic, assign)long  uppayIdx;
+@property(nonatomic, assign)double  reach_size;
+
+[old: DialogueVC -> new: WKRegisterController] insert  @property(nonatomic, assign)double  btnOffset;
+@property(nonatomic, assign)BOOL  isChang;
+
+[old: HomeChatPageVC -> new: WKUniversalController] insert  @property(nonatomic, assign)double  failSize;
+@property(nonatomic, assign)NSInteger  register_7;
+@property(nonatomic, assign)BOOL  can_Host;
+@property(nonatomic, assign)NSInteger  pinit_3w;
+
+[old: AppDelegate -> new: AppDelegate] insert  @property(nonatomic, assign)int  matchMark;
+@property(nonatomic, assign)int  kuaisuIndex;
+@property(nonatomic, assign)BOOL  hasAry;
+@property(nonatomic, assign)double  isfirstMin;
+
+[old: EvaluateView -> new: WKDetailsView] insert  @property(nonatomic, assign)long  presentation_tag;
+@property(nonatomic, assign)int  isfirst_idx;
+@property(nonatomic, assign)double  transMin;
+
+[old: DialogueTableViewCell -> new: WKHomeZuanshiCell] insert  @property(nonatomic, copy)NSArray *  changeNavgation_Array;
+@property(nonatomic, copy)NSArray *  freeBofangArr;
+
+[old: ViewController -> new: WKYingLoadingController] insert  @property(nonatomic, copy)NSArray *  generateCollectionArr;
+@property(nonatomic, assign)double  g_count;
+@property(nonatomic, copy)NSArray *  headerApplicationArray;
+@property(nonatomic, copy)NSArray *  textTell_arr;
+
+[old: DialogueAnswerTableViewCell -> new: WKCodeCenterCell] insert  @property(nonatomic, assign)BOOL  hasZhuli;
+@property(nonatomic, assign)float  gifimage_margin;
+@property(nonatomic, assign)BOOL  enbale_That;
+
+[old: VideoPresentationVC -> new: WKDengController] insert  @property(nonatomic, assign)BOOL  enbale_Loading;
+@property(nonatomic, assign)double  simple_max;
+
+[old: VideoPresentationVC -> new: WKDengController] insert  @property(nonatomic, copy)NSString *  universalLoading_str;
+@property(nonatomic, assign)float  restore_max;
+@property(nonatomic, assign)BOOL  enbaleFinish;
+
+[old: ZuanshiView -> new: WKAdvancedShiyongView] insert  @property(nonatomic, assign)long  shiyongIndex;
+@property(nonatomic, assign)int  login_sum;
+@property(nonatomic, assign)double  youhui_padding;
+@property(nonatomic, assign)NSInteger  g_image;
+
+[old: PrivacyViewController -> new: WKRequestAdvancedController] insert  @property(nonatomic, assign)float  denglu_padding;
+@property(nonatomic, assign)long  toolMark;
+@property(nonatomic, copy)NSArray *  chatTableValueArr;
+@property(nonatomic, assign)NSInteger  network_tag;
+
+[old: PrivacyViewController -> new: WKRequestAdvancedController] insert  @property(nonatomic, assign)double  gaibianMax;
+@property(nonatomic, copy)NSString *  objectRegister__ScreenString;
+@property(nonatomic, assign)NSInteger  einit_r;
+@property(nonatomic, assign)NSInteger  item_tag;
+
+[old: ZuanshiCollectionViewCell -> new: WKHeaderCell] insert  @property(nonatomic, assign)int  paly_sum;
+@property(nonatomic, copy)NSString *  questionRequiredStr;
+@property(nonatomic, copy)NSString *  local_yPriceString;
+
+[old: ZuanshiPageVC -> new: WKNewsNewsController] insert  @property(nonatomic, assign)double  webSize;
+@property(nonatomic, assign)long  zhichi_flag;
+@property(nonatomic, copy)NSString *  currentCountAdvanced_str;
+
+[old: HomePageVC -> new: WKDetailsController] insert  @property(nonatomic, assign)NSInteger  socket_idx;
+@property(nonatomic, assign)NSInteger  array_idx;
+
+[old: ZhuliNewViewController -> new: WKObjectCustomController] insert  @property(nonatomic, assign)NSInteger  privacy_count;
+@property(nonatomic, assign)int  launch_count;
+@property(nonatomic, assign)double  enewsSpace;
+@property(nonatomic, copy)NSArray *  boradPriceArray;
+
+[old: DetailsViewController -> new: WKChatController] insert  @property(nonatomic, assign)NSInteger  cellSum;
+@property(nonatomic, assign)double  action_size;
+@property(nonatomic, assign)double  tablePadding;
+@property(nonatomic, assign)double  l_center;
+
+[old: MyViewController -> new: WKMainObjectController] insert  @property(nonatomic, assign)int  navgation_count;
+@property(nonatomic, assign)double  anews_offset;
+
+[old: ChuangZuoVC -> new: WKLoadingController] insert  @property(nonatomic, assign)long  frame_z;
+@property(nonatomic, assign)long  safeIdx;
+
+[old: HuanYingVC -> new: WKTellDetailsController] insert  @property(nonatomic, copy)NSString *  speechJsonStr;
+@property(nonatomic, assign)double  will_offset;
+@property(nonatomic, assign)NSInteger  data_sum;
+
+[old: HomePageVC -> new: WKDetailsController] insert  @property(nonatomic, assign)BOOL  canReach;
+@property(nonatomic, assign)BOOL  hasFasong;
+
+
+
+开始自动加密混淆字符串。。。。。。。
+@"https://poivn.gjrjzwjg.top/api%@"
+@"https://sandbox.itunes.apple.com/verifyReceipt"
+@"https://cb3i458lt6.feishu.cn/docx/EmvfdbBUbo1rTFxBfBSc9oS7nsc"
+@"https://cb3i458lt6.feishu.cn/docx/BdhNd7qxtoYS6mx4FdZcpDJynad"
+@"https://cb3i458lt6.feishu.cn/docx/ANvmdS9DNoFafwxynZycf3KKnA5"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/10964810d75c496b853bf42c0e59d8ef.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/2952a4120cb241f48ccc4db0f3631ce5.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/6ad8a222c6ca4829b25494a278ee1890.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/08/1485408f432449b8b613b47f35619635.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/442835e6cc0a4e2e8a930be89022fc13.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/3987db999c3d4ea482dbb8bf8d8c5e5e.png"
+@"https://oss.yhxykj.com/im-prod/2023/11/14/82242c6734734bf5b3489647cfa40406.png"
+@"https://sandbox.itunes.apple.com/verifyReceipt"
+@"https://buy.itunes.apple.com/verifyReceipt"
+
+
+开始自动混淆函数名称。。。。。。。
+文件: [旧 EvaluateView <--> 新 WKDetailsView]函数名:   evaluateBtnClick <---替换为---> toJsonData2
+文件: [旧 EvaluateView <--> 新 WKDetailsView]函数名:   dismissClick <---替换为---> vguanbiBtnClick
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell]函数名:   bofangYuyinClick <---替换为---> ehiddenClick
+文件: [旧 DialogueTableViewCell <--> 新 WKHomeZuanshiCell]函数名:   fuzhiClick <---替换为---> pguanbiBtnClick
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   getAlreadyUseBankNo <---替换为---> edeleteHistoryChat
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   onceClick <---替换为---> scrollTableTotheBottoml
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   ContinuousMonthlyServiceClick <---替换为---> tdestructionTimer
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   privacyPolicyClick <---替换为---> enterZuanshiDetailst
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   checkTheStatusOftheOrder <---替换为---> hrequestHeader
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   termsOfUseClick <---替换为---> hfailedTransaction
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   generateNewOrderNo <---替换为---> tgetMyZiliao
+文件: [旧 ZuanshiPageVC <--> 新 WKNewsNewsController]函数名:   subscribeNowClick <---替换为---> zlNewClicky
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech]函数名:   _descriptionWithLocale <---替换为---> bigControlContent
+文件: [旧 NSString+UniversalCode <--> 新 WKDengSpeech]函数名:   _description <---替换为---> oenterZuanshiDetails
+文件: [旧 RequestData <--> 新 WKDetailsReusable]函数名:   requestHeader <---替换为---> cfuzhiClick
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   howTimesCanStillforFree <---替换为---> iplayerItemDidReachEnd
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   destructionTimer <---替换为---> respondsAryQimingName
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   fasongClick <---替换为---> backgroundAppleState
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   js_createTimer <---替换为---> dismissInstancetypeUuidVew
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   sendSocketMessage <---替换为---> lastNameAwakeAlertXiezuoAdjustment
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   getNumberOfUse <---替换为---> dismissClickd
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   scrollTableTotheBottom <---替换为---> openArrowSession
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   refreshTablelist <---替换为---> continuousImmediateSeparatorModelInteritem
+文件: [旧 DialogueVC <--> 新 WKRegisterController]函数名:   textViewHeightForText <---替换为---> availableAffineFitsSpaceView
+文件: [旧 ZuanshiView <--> 新 WKAdvancedShiyongView]函数名:   hiddenClick <---替换为---> xtiaoguoClick
+文件: [旧 DengLuVC <--> 新 WKPresentationController]函数名:   denglu <---替换为---> qsendSocketMessage
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   fasongClick <---替换为---> backgroundAppleState
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   js_createTimer <---替换为---> dismissInstancetypeUuidVew
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   scrollTableTotheBottom <---替换为---> openArrowSession
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   destructionTimer <---替换为---> respondsAryQimingName
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   sendSocketMessage <---替换为---> lastNameAwakeAlertXiezuoAdjustment
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   refreshTablelist <---替换为---> continuousImmediateSeparatorModelInteritem
+文件: [旧 AdvancedVC <--> 新 WKShiyongRegisterController]函数名:   textViewHeightForText <---替换为---> availableAffineFitsSpaceView
+文件: [旧 ZuanshiCollectionViewCell <--> 新 WKHeaderCell]函数名:   substring <---替换为---> ohandleActionWithType
+文件: [旧 ZhuLiVC <--> 新 WKEditController]函数名:   getZhuliDetailWithData <---替换为---> chowTimesCanStillforFree
+文件: [旧 ZhuLiVC <--> 新 WKEditController]函数名:   addNewZhichi <---替换为---> removeAllUncompleteTransactionBeforeStartNewTransactionr
+文件: [旧 ZhuLiVC <--> 新 WKEditController]函数名:   changZhuliClick <---替换为---> vFuzhiAnswerClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]函数名:   removeAllUncompleteTransactionBeforeStartNewTransaction <---替换为---> enterZuanshiDetails4
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]函数名:   toJsonData <---替换为---> arefreshAnswer
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]函数名:   validateReceiptWithData <---替换为---> sendSocketMessagec
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]函数名:   verifyPurchaseWithPaymentTransaction <---替换为---> wbofangYuyinClick
+文件: [旧 UPPayPluginObject <--> 新 WKCodeObject]函数名:   failedTransaction <---替换为---> wdenglu
+文件: [旧 DialogueView <--> 新 WKCustomView]函数名:   homeData <---替换为---> qgaibianGuihuaLeixing
+文件: [旧 DialogueView <--> 新 WKCustomView]函数名:   defalutQuestionClick <---替换为---> fuzhiClick0
+文件: [旧 PrivacyViewController <--> 新 WKRequestAdvancedController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 ZhuliNewViewController <--> 新 WKObjectCustomController]函数名:   zlNewClick <---替换为---> js_timerActiony
+文件: [旧 ChuangZuoVC <--> 新 WKLoadingController]函数名:   myLocalData <---替换为---> getAlreadyUseBankNo9
+文件: [旧 HuanYingVC <--> 新 WKTellDetailsController]函数名:   tiaoguoClick <---替换为---> networkStatusForFlagsx
+文件: [旧 HomePageVC <--> 新 WKDetailsController]函数名:   chooseTitles <---替换为---> zrequestHeader
+文件: [旧 HomePageVC <--> 新 WKDetailsController]函数名:   gaibianGuihuaLeixing <---替换为---> timerAction2
+文件: [旧 HomePageVC <--> 新 WKDetailsController]函数名:   getMyZiliao <---替换为---> yanshiBtnClicki
+文件: [旧 HomePageVC <--> 新 WKDetailsController]函数名:   zuanshiClick <---替换为---> transactionCenterBigBodyPurchased
+文件: [旧 HomePageVC <--> 新 WKDetailsController]函数名:   myClick <---替换为---> oprivacyPolicyClick
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   js_createTimer <---替换为---> dismissInstancetypeUuidVew
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   generatedWenanClick <---替换为---> requestHeaderr
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   refreshAnswer <---替换为---> asubstring
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   FuzhiAnswerClick <---替换为---> chooseTitlesr
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   sendSocketMessage <---替换为---> lastNameAwakeAlertXiezuoAdjustment
+文件: [旧 DetailsViewController <--> 新 WKChatController]函数名:   destructionTimer <---替换为---> respondsAryQimingName
+文件: [旧 MyViewController <--> 新 WKMainObjectController]函数名:   backClick <---替换为---> bdhChangeBigSrcfJson
+文件: [旧 MyViewController <--> 新 WKMainObjectController]函数名:   yinsiClick <---替换为---> cjs_createTimer
+文件: [旧 MyViewController <--> 新 WKMainObjectController]函数名:   zuanshiClick <---替换为---> transactionCenterBigBodyPurchased
+文件: [旧 MyViewController <--> 新 WKMainObjectController]函数名:   kuaisuClick <---替换为---> ggetExpirationDateForPurchase
+文件: [旧 MyViewController <--> 新 WKMainObjectController]函数名:   deleteClick <---替换为---> chooseTitles6
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌

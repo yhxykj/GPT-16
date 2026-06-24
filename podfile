@@ -1,0 +1,19 @@
+install! 'cocoapods', :disable_input_output_paths => true
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+target 'WK' do
+platform:ios,'10.0'
+use_frameworks!
+
+ pod 'AFNetworking'
+ pod 'SDWebImage'
+ pod 'SVProgressHUD'
+ pod 'SDAutoLayout', '~> 2.1.7'
+ 
+ pod 'SAMKeychain'
+ pod 'IQKeyboardManager'
+
+ pod 'YYCategories'
+ 
+ pod 'SocketRocket'
+ 
+end
