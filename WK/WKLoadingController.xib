@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="u6A-89-q79" userLabel="File's Owner" customClass="WKLoadingController">
+            <connections>
+                <outlet property="collectionView" destination="0Pa-YE-Wlg" id="BBa-l5-JrE"/>
+                <outlet property="view" destination="bcg-Ou-wdY" id="byX-vJ-yJA"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="Vfa-nY-OxY" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="bcg-Ou-wdY">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="0Pa-YE-Wlg">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="DbK-fd-gYN">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="u6A-89-q79" id="XFR-BJ-iYP"/>
+                        <outlet property="delegate" destination="u6A-89-q79" id="Bie-CF-epD"/>
+                    </connections>
+                </collectionView>
+            </subviews>
+            <constraints>
+                <constraint firstItem="0Pa-YE-Wlg" firstAttribute="top" secondItem="bcg-Ou-wdY" secondAttribute="top" id="c56-AI-rFo"/>
+                <constraint firstAttribute="bottom" secondItem="0Pa-YE-Wlg" secondAttribute="bottom" id="J8t-wo-1dS"/>
+                <constraint firstItem="0Pa-YE-Wlg" firstAttribute="leading" secondItem="bcg-Ou-wdY" secondAttribute="leading" id="pOt-5g-xNb"/>
+                <constraint firstAttribute="trailing" secondItem="0Pa-YE-Wlg" secondAttribute="trailing" id="wKZ-sM-xc1"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="107" y="-11"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="u6A-89-q79" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="Vfa-nY-OxY" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="97" id="EpZ-B2-Pko" customClass="WKCodeCenterCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="97"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="EpZ-B2-Pko" id="V9Q-Wd-M8Z">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="97"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="--" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cl-9r-95l">
+                        <rect key="frame" x="59" y="19" width="240" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.89411764705882346" green="0.89411764705882346" blue="0.89411764705882346" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fuzhiPrivacy" translatesAutoresizingMaskIntoConstraints="NO" id="dny-1q-exp">
+                        <rect key="frame" x="16" y="14" width="32" height="32"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="32.04" id="uZC-TI-yor"/>
+                            <constraint firstAttribute="height" constant="31.98" id="d24-wj-jKn"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="dny-1q-exp" firstAttribute="leading" secondItem="V9Q-Wd-M8Z" secondAttribute="leading" constant="16.02" id="PnZ-xb-Y61"/>
+                    <constraint firstItem="6cl-9r-95l" firstAttribute="top" secondItem="V9Q-Wd-M8Z" secondAttribute="top" constant="18.99" id="QY6-5t-09I"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="6cl-9r-95l" secondAttribute="bottom" constant="19.02" id="DYX-Z6-88M"/>
+                    <constraint firstAttribute="trailing" secondItem="6cl-9r-95l" secondAttribute="trailing" constant="20.98" id="0ur-j6-VV1"/>
+                    <constraint firstItem="dny-1q-exp" firstAttribute="top" secondItem="V9Q-Wd-M8Z" secondAttribute="top" constant="14.04" id="8qy-wz-WBQ"/>
+                    <constraint firstItem="6cl-9r-95l" firstAttribute="leading" secondItem="dny-1q-exp" secondAttribute="trailing" constant="11.02" id="rt1-IC-XxM"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="IeO-it-vTC"/>
+            <connections>
+                <outlet property="answerLabel" destination="6cl-9r-95l" id="RdW-R4-X87"/>
+            </connections>
+            <point key="canvasLocation" x="130.76923076923077" y="6.7535545023696679"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="fuzhiPrivacy" width="30" height="30"/>
+    </resources>
+</document>

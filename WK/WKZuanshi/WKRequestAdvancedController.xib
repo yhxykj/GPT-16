@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="u6A-89-q79" userLabel="File's Owner" customClass="WKRequestAdvancedController">
+            <connections>
+                <outlet property="titleLabel" destination="TOs-Ql-QJ4" id="ja3-nN-dDK"/>
+                <outlet property="view" destination="bcg-Ou-wdY" id="byX-vJ-yJA"/>
+                <outlet property="webView" destination="H6j-sM-Zjq" id="Rat-ZQ-njP"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="Vfa-nY-OxY" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="bcg-Ou-wdY">
+            <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rzq-TZ-8dr">
+                    <rect key="frame" x="0.0" y="47" width="390" height="44"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="--" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TOs-Ql-QJ4">
+                            <rect key="frame" x="187.33333333333334" y="11.666666666666664" width="15.333333333333343" height="21"/>
+                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                            <color key="textColor" red="0.95294117647058818" green="0.95294117647058818" blue="0.95294117647058818" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7rQ-09-SuK">
+                            <rect key="frame" x="0.0" y="0.0" width="50" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="50.02" id="uys-sq-uWD"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="detailsRequestPrivacy"/>
+                            <connections>
+                                <action selector="bdhChangeBigSrcfJson:" destination="u6A-89-q79" eventType="touchUpInside" id="rcM-Za-z3s"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="7rQ-09-SuK" firstAttribute="top" secondItem="rzq-TZ-8dr" secondAttribute="top" id="i3k-rV-BsP"/>
+                        <constraint firstAttribute="height" constant="44.03" id="OBQ-oI-TLm"/>
+                        <constraint firstItem="TOs-Ql-QJ4" firstAttribute="centerY" secondItem="rzq-TZ-8dr" secondAttribute="centerY" id="X94-kO-HBb"/>
+                        <constraint firstItem="TOs-Ql-QJ4" firstAttribute="centerX" secondItem="rzq-TZ-8dr" secondAttribute="centerX" id="EPw-Hm-OF9"/>
+                        <constraint firstItem="7rQ-09-SuK" firstAttribute="leading" secondItem="rzq-TZ-8dr" secondAttribute="leading" id="T01-sJ-GF6"/>
+                        <constraint firstAttribute="bottom" secondItem="7rQ-09-SuK" secondAttribute="bottom" id="V2t-mk-vjP"/>
+                    </constraints>
+                </view>
+                <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H6j-sM-Zjq">
+                    <rect key="frame" x="0.0" y="91" width="390" height="753"/>
+                    <wkWebViewConfiguration key="configuration">
+                        <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                        <wkPreferences key="preferences"/>
+                    </wkWebViewConfiguration>
+                </wkWebView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="gQj-jl-m14"/>
+            <color key="backgroundColor" red="0.098039215686274508" green="0.10588235294117647" blue="0.12156862745098039" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="H6j-sM-Zjq" firstAttribute="top" secondItem="rzq-TZ-8dr" secondAttribute="bottom" id="h2n-Hd-cuf"/>
+                <constraint firstAttribute="bottom" secondItem="H6j-sM-Zjq" secondAttribute="bottom" id="hki-4S-BCB"/>
+                <constraint firstItem="gQj-jl-m14" firstAttribute="trailing" secondItem="rzq-TZ-8dr" secondAttribute="trailing" id="sz7-HP-5oQ"/>
+                <constraint firstAttribute="trailing" secondItem="H6j-sM-Zjq" secondAttribute="trailing" id="402-y9-3UI"/>
+                <constraint firstItem="rzq-TZ-8dr" firstAttribute="top" secondItem="gQj-jl-m14" secondAttribute="top" id="lgA-PC-tnj"/>
+                <constraint firstItem="H6j-sM-Zjq" firstAttribute="leading" secondItem="bcg-Ou-wdY" secondAttribute="leading" id="Xrw-Ln-KBo"/>
+                <constraint firstItem="rzq-TZ-8dr" firstAttribute="leading" secondItem="bcg-Ou-wdY" secondAttribute="leading" id="HPI-8m-U9h"/>
+            </constraints>
+            <point key="canvasLocation" x="131" y="-12"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="detailsRequestPrivacy" width="10" height="17"/>
+    </resources>
+</document>

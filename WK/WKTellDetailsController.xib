@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="u6A-89-q79" userLabel="File's Owner" customClass="WKTellDetailsController">
+            <connections>
+                <outlet property="bigView" destination="lys-36-o9E" id="94l-uF-fue"/>
+                <outlet property="tg_btn" destination="xpE-Dm-RyX" id="syn-Ot-H3I"/>
+                <outlet property="view" destination="bcg-Ou-wdY" id="byX-vJ-yJA"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="Vfa-nY-OxY" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="bcg-Ou-wdY">
+            <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lys-36-o9E">
+                    <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xpE-Dm-RyX">
+                    <rect key="frame" x="326" y="47" width="54" height="24"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" image="launchSocket">
+                        <color key="titleColor" red="0.20000000000000001" green="0.20000000000000001" blue="0.20000000000000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="networkStatusForFlagsx:" destination="u6A-89-q79" eventType="touchUpInside" id="8qK-NF-M2y"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Gx6-nn-uUU"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="lys-36-o9E" firstAttribute="top" secondItem="bcg-Ou-wdY" secondAttribute="top" id="m1x-LU-fcn"/>
+                <constraint firstItem="xpE-Dm-RyX" firstAttribute="top" secondItem="Gx6-nn-uUU" secondAttribute="top" id="eOK-dK-MRQ"/>
+                <constraint firstAttribute="trailing" secondItem="lys-36-o9E" secondAttribute="trailing" id="FOY-Oe-FbF"/>
+                <constraint firstAttribute="bottom" secondItem="lys-36-o9E" secondAttribute="bottom" id="i3X-tz-LOJ"/>
+                <constraint firstItem="lys-36-o9E" firstAttribute="leading" secondItem="bcg-Ou-wdY" secondAttribute="leading" id="4gg-5i-pWp"/>
+                <constraint firstItem="Gx6-nn-uUU" firstAttribute="trailing" secondItem="xpE-Dm-RyX" secondAttribute="trailing" constant="10.01" id="uUK-Xr-Cnd"/>
+            </constraints>
+            <point key="canvasLocation" x="131" y="-12"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="launchSocket" width="54" height="24"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

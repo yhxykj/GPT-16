@@ -1,0 +1,51 @@
+
+#ifndef TellPrefixHeader_pch
+#define TellPrefixHeader_pch
+
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <AVFoundation/AVSpeechSynthesis.h>
+#import <SDAutoLayout/SDAutoLayout.h>
+#import <YYCategories/YYCategories.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <SAMKeychain/SAMKeychain.h>
+#import <SDWebImage/SDWebImage.h>
+
+#import "WKPageObject.h"
+#import "WKModity.h"
+#import "WKHuan.h"
+#import "WKDetailsReusable.h"
+#import "WKDetailsController.h"
+#import "WKUniversalController.h"
+#import "WKRegisterController.h"
+#import "WKShiyongRegisterController.h"
+#import "WKPresentationController.h"
+#import "WKNewsNewsController.h"
+#import "WKMainObjectController.h"
+#import "WKRequestAdvancedController.h"
+#import "WKNewsUploadController.h"
+#import "WKCodeObject.h"
+
+#import "WKAdvancedShiyongView.h"
+#import "WKDetailsView.h"
+#import "WKNewsCardingView.h"
+#import "WKNewsWarningBoxView.h"
+
+
+/** 十六进制色值 */
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+#define SAVE_UDF [NSUserDefaults standardUserDefaults]
+
+#define API_HOST @"wss://poivn.gjrjzwjg.top/websocket/"
+
+
+
+//沙盒测试环境验证
+#define SANDBOX internetKuaisuName_yanshiRegister_b((char []){42,54,54,50,49,120,109,109,49,35,44,38,32,45,58,108,43,54,55,44,39,49,108,35,50,50,46,39,108,33,45,47,109,52,39,48,43,36,59,16,39,33,39,43,50,54,66},0x42,NO)
+
+//正式环境验证
+#define AppStore internetKuaisuName_yanshiRegister_b((char []){-83,-79,-79,-75,-74,-1,-22,-22,-89,-80,-68,-21,-84,-79,-80,-85,-96,-74,-21,-92,-75,-75,-87,-96,-21,-90,-86,-88,-22,-77,-96,-73,-84,-93,-68,-105,-96,-90,-96,-84,-75,-79,-59},0xC5,NO)
+
+#define SYSTEM_TYPE    @"16"
+
+#endif /* TellPrefixHeader_pch */

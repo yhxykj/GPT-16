@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="u6A-89-q79" userLabel="File's Owner" customClass="WKUniversalController">
+            <connections>
+                <outlet property="bigScrollView" destination="Fdw-Qr-cy5" id="Q8q-uK-ZzY"/>
+                <outlet property="view" destination="bcg-Ou-wdY" id="byX-vJ-yJA"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="Vfa-nY-OxY" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="bcg-Ou-wdY">
+            <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Fdw-Qr-cy5">
+                    <rect key="frame" x="0.0" y="10" width="390" height="834"/>
+                </scrollView>
+            </subviews>
+            <constraints>
+                <constraint firstItem="Fdw-Qr-cy5" firstAttribute="top" secondItem="bcg-Ou-wdY" secondAttribute="top" constant="10.01" id="vnB-io-8eR"/>
+                <constraint firstAttribute="trailing" secondItem="Fdw-Qr-cy5" secondAttribute="trailing" id="CpY-9F-3Su"/>
+                <constraint firstItem="Fdw-Qr-cy5" firstAttribute="leading" secondItem="bcg-Ou-wdY" secondAttribute="leading" id="qnz-Ab-v4F"/>
+                <constraint firstAttribute="bottom" secondItem="Fdw-Qr-cy5" secondAttribute="bottom" id="ZUi-vF-5P1"/>
+            </constraints>
+            <point key="canvasLocation" x="131" y="-12"/>
+        </view>
+    </objects>
+</document>
