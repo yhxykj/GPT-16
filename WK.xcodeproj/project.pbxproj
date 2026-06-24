@@ -1,0 +1,852 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18057888FB08Z2K7043W7LE5 /* WKChatController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18D00L3M4133009123980I4Y /* WKChatController.xib */; };
+		18061B2K2123D1D9K8158828 /* WKModity.m in Sources */ = {isa = PBXBuildFile; fileRef = 1880995N6Z6X802UXY18W45E /* WKModity.m */; };
+		1807FQ287WG5ULD9B0211164 /* WKCodeCenterCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 180D7D9210HY0D001RJ4U445 /* WKCodeCenterCell.m */; };
+		180ALE06243398C152T66531 /* WKUniversalController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 184B171F60JGZL6D2ICL8X62 /* WKUniversalController.xib */; };
+		180G84188F5Y450316872E01 /* ys_shiyong_video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 188Z553Z32R3I790M5031134 /* ys_shiyong_video.mp4 */; };
+		180VYEE03711A90313G414S0 /* WKChatController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18124U26077U56E5719284X0 /* WKChatController.m */; };
+		181602B3601IZ5Q724O332M6 /* WKRegisterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1897R8KGZ5375IPD27466AL5 /* WKRegisterController.xib */; };
+		18207W85R62E59873S28NGV2 /* WKHeaderCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18PU4495046H5970P42384S9 /* WKHeaderCell.xib */; };
+		18226525V7609CTNQ18QE90T /* WKDetailsView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18BV83TB06XBO776G033E987 /* WKDetailsView.xib */; };
+		18242425WR8LA3757J7W47F1 /* WKShiyongRegisterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18X6S5A5AHYG499G611R1765 /* WKShiyongRegisterController.m */; };
+		1829R389ZLWA693527Z79Y5G /* WKEditController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18S04W84273104894OJ23667 /* WKEditController.xib */; };
+		182J4055EE861TK638361968 /* WKCustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1880237047911PA244Q0803H /* WKCustomView.xib */; };
+		182P9E039I3QW02T75H72ZO5 /* WKNewsNewsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18I1Z9T20JB13834522RA1M4 /* WKNewsNewsController.m */; };
+		1830QJ0529K983160K332E16 /* WKPresentationController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 188Y19WL9011W9411T62T6O7 /* WKPresentationController.xib */; };
+		183O974E3E68159499I4QW62 /* WKLoadingController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18I181E720D9O0H51186U358 /* WKLoadingController.xib */; };
+		183UUMAI2VB8I577736SJ1Y7 /* WKObjectCustomController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18OR4022B1291688A5L6M53R /* WKObjectCustomController.m */; };
+		1841455Q38324S4KX7551L2Z /* WKDetailsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 184K8A8B37U44L12NCN32056 /* WKDetailsView.m */; };
+		1845RS87IJ68R25GV8X76XZ0 /* WKDetailsReusable.m in Sources */ = {isa = PBXBuildFile; fileRef = 1864E81632E592M905P1JL54 /* WKDetailsReusable.m */; };
+		184895XWT17L6323S7919983 /* WKDetailsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18392385984123217701R444 /* WKDetailsController.m */; };
+		184F33622B2C2C420086F6AA /* WKNewsCardingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 184F33612B2C2C420086F6AA /* WKNewsCardingView.m */; };
+		184F33642B2C2C570086F6AA /* WKNewsCardingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 184F33632B2C2C570086F6AA /* WKNewsCardingView.xib */; };
+		184G450B38YL8686656NZ22G /* WKCollectionDelegateCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 186850827BZ72Z337FE4Y534 /* WKCollectionDelegateCell.m */; };
+		1850H88328V18199RM6955X0 /* WKLoadingController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1827WIK683UK907H7NZ0221T /* WKLoadingController.m */; };
+		1856G1O41U567EE72M095P45 /* WKUniversalController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1801I2LEW82I093652027524 /* WKUniversalController.m */; };
+		185BDC4P401955MXD800FQ03 /* WKNewsNewsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1804754C0741669542PL7O15 /* WKNewsNewsController.xib */; };
+		1860081Y97GL023OR98V3903 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1846G40C742YVPZ231P97L5T /* Assets.xcassets */; };
+		18614I2348T30RZ1V5758UH6 /* WKCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1828NS332PHS8X3781CJ4228 /* WKCustomView.m */; };
+		1870473L42KN731IY201SO0Y /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1817E53F931P1QA100P92GJ7 /* Main.storyboard */; };
+		1870CI58W986530310C71A93 /* WKTellDetailsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18BZP03UFE14XLGH42754F14 /* WKTellDetailsController.xib */; };
+		1873U2N2O852C3CHA9EY232G /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18274I29147KS5K676A2YYT3 /* main.m */; };
+		187824407M195D99MF0G9745 /* WKHomeZuanshiCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D405N914U9157636F902G1 /* WKHomeZuanshiCell.m */; };
+		1885R3KQP38G81D93F75FB23 /* WKHeaderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18213YQMH7539384939APF53 /* WKHeaderCell.m */; };
+		188684S9762XK6W7R14Z03AE /* WKDengController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1840N609I1Y14670020HSR94 /* WKDengController.xib */; };
+		189447E3639W35OR054WQ5TW /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18159235M0433D3DQ0B6564P /* AppDelegate.m */; };
+		189449E9I4TNBG9I178Y4X58 /* WKObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 18P4W023216234E01985U328 /* WKObject.m */; };
+		189C738159762IG9600533V1 /* agreementReusable.gif in Resources */ = {isa = PBXBuildFile; fileRef = 18946R4J118E223PL2W4DC3K /* agreementReusable.gif */; };
+		189V7282LUR003634S1424MB /* WKCodeCenterCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18HTA1I941AN118341OF48L1 /* WKCodeCenterCell.xib */; };
+		189VABS7548542F1P8567E43 /* WKCollectionDelegateCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 183288974121702H0A04LYS1 /* WKCollectionDelegateCell.xib */; };
+		18A2638IRQ75UW8977050O7B /* WKPresentationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1840549493RE9825C7V2DMA4 /* WKPresentationController.m */; };
+		18A30445F81782GG958X4I97 /* WKShiyongRegisterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1854G2T7M5622L123C533353 /* WKShiyongRegisterController.xib */; };
+		18B012W4237V04I2925A9643 /* WKHuan.m in Sources */ = {isa = PBXBuildFile; fileRef = 1826K142Q67G3D43E287P06Y /* WKHuan.m */; };
+		18B96502034S821BK60F2H9H /* WKMainObjectController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 183R32292M9B4J8367KA02R3 /* WKMainObjectController.xib */; };
+		18D718J5042H1I06274A4C45 /* WKEditController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18422Y5W17W939M2X4KBF250 /* WKEditController.m */; };
+		18E5642P2V8062316AF77501 /* WKCodeObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 183258400193W83969H00820 /* WKCodeObject.m */; };
+		18F2E7952B35619800B3063E /* WKNewsUploadController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F2E7932B35619800B3063E /* WKNewsUploadController.m */; };
+		18F2E7962B35619800B3063E /* WKNewsUploadController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F2E7942B35619800B3063E /* WKNewsUploadController.xib */; };
+		18F2E7992B356A9200B3063E /* WKNewsWarningBoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F2E7982B356A9200B3063E /* WKNewsWarningBoxView.m */; };
+		18F2E79B2B356A9A00B3063E /* WKNewsWarningBoxView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F2E79A2B356A9A00B3063E /* WKNewsWarningBoxView.xib */; };
+		18G1FDO261T9E7J5506PEH8V /* WKObjectCustomController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18LLEHHW3E95BL2U2U97M2W9 /* WKObjectCustomController.xib */; };
+		18J2HNQ2962124TC19859927 /* WKRequestAdvancedController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18QHV2514WC1U6EZ0139R421 /* WKRequestAdvancedController.xib */; };
+		18JXW26I553Y01O04U5E4GB6 /* WKRegisterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18J27B139G955062WH6249B5 /* WKRegisterController.m */; };
+		18K80A92427MT5773H566174 /* WKDengSpeech.m in Sources */ = {isa = PBXBuildFile; fileRef = 18107080549P77ZDPS230966 /* WKDengSpeech.m */; };
+		18K919ILR0640F85S3309U64 /* WKPageObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 189E465477903VGYLG95Q04C /* WKPageObject.m */; };
+		18O2119G4F1ZET102P583Y10 /* WKDetailsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18E30083E5122X37YQE48976 /* WKDetailsController.xib */; };
+		18Q2S7Z0R6DS5A9485U5L671 /* WKDengController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1877HP87A7B45107731P9O8T /* WKDengController.m */; };
+		18R4Z15B3660059NRB0B8091 /* WKYingLoadingController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18J4DLRKB36N9ZB8300ZZ211 /* WKYingLoadingController.m */; };
+		18V7X849265E7H527010KBP3 /* WKRegisterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18348O7X19Q1039232560851 /* WKRegisterView.m */; };
+		18VH3H1H0913369920N6933A /* WKAdvancedShiyongView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183X9RXC5G245T7Q8558L2FF /* WKAdvancedShiyongView.m */; };
+		18W1QD71A3L1Y313XS5E5SKJ /* WKRequestAdvancedController.m in Sources */ = {isa = PBXBuildFile; fileRef = 183V201TFSG7G766511D0K09 /* WKRequestAdvancedController.m */; };
+		18Y44342041143HY487R1161 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1858G0029A1L0003557522OW /* LaunchScreen.storyboard */; };
+		18Z06SB460901C60L2548Z18 /* WKHomeZuanshiCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18R0535S36U064D57MV32420 /* WKHomeZuanshiCell.xib */; };
+		18Z631O27Z770PE014Z5JW86 /* WKAdvancedShiyongView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18121814Q53RFKFNK99CL7IK /* WKAdvancedShiyongView.xib */; };
+		18Z7TB749T17AA78963RYU17 /* WKTellDetailsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1809827120MO813363H625C3 /* WKTellDetailsController.m */; };
+		18ZPQ2E44NE5G26A04SWS6L3 /* WKMainObjectController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18SD57968P293000983R1666 /* WKMainObjectController.m */; };
+		2B1U8T6V6610797QQ720Z457 /* Pods_WK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14Z3X0H5UM974380QD1B3178 /* Pods_WK.framework */; };
+		BX67581020F44213WP1618U4 /* WKDelegateView.m in Sources */ = {isa = PBXBuildFile; fileRef = XH7RYD76453939R78S0O5355 /* WKDelegateView.m */; };
+		EL604350K6HO240BP72Y6TW5 /* WKRequestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = MT6522U48ACB850P009V746U /* WKRequestObject.m */; };
+		JE7156IQ54060539024987CM /* WKRequestView.m in Sources */ = {isa = PBXBuildFile; fileRef = OA11T177LD9J90P35N00385I /* WKRequestView.m */; };
+		MW4O1041239V15839JF5832O /* WKDialogueObject.m in Sources */ = {isa = PBXBuildFile; fileRef = MG19WTL1XH0D181ZA001125V /* WKDialogueObject.m */; };
+		NN4A1F95HZ98JWD95379G50S /* WKAnswerHeaderObject.m in Sources */ = {isa = PBXBuildFile; fileRef = WZ0193L3877062N75886549Z /* WKAnswerHeaderObject.m */; };
+		RS2PX7759D9Z64389KW935Y6 /* WKVideoYingView.m in Sources */ = {isa = PBXBuildFile; fileRef = YI4M193ZG3419XJ64C5CZ72Q /* WKVideoYingView.m */; };
+		UJEZ938H0V09Z6H77CZ3GJ02 /* WKEvaluateView.m in Sources */ = {isa = PBXBuildFile; fileRef = APKQ8690M95L15WA0L459141 /* WKEvaluateView.m */; };
+		XOE93450QGR7285V87VL572Q /* WKToolHuanView.m in Sources */ = {isa = PBXBuildFile; fileRef = AE42P7028W5XY2411845S44U /* WKToolHuanView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		14Z3X0H5UM974380QD1B3178 /* Pods_WK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1801I2LEW82I093652027524 /* WKUniversalController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKUniversalController.m; sourceTree = "<group>"; };
+		1801I6435C6308472K3U38K6 /* WKModity.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKModity.h; sourceTree = "<group>"; };
+		1804754C0741669542PL7O15 /* WKNewsNewsController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKNewsNewsController.xib; sourceTree = "<group>"; };
+		18082G5U7057U52VC19400PV /* WKRegisterController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKRegisterController.h; sourceTree = "<group>"; };
+		1809827120MO813363H625C3 /* WKTellDetailsController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKTellDetailsController.m; sourceTree = "<group>"; };
+		1809V2E6I85CEA8461P46796 /* WKDetailsView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKDetailsView.h; sourceTree = "<group>"; };
+		180D7D9210HY0D001RJ4U445 /* WKCodeCenterCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKCodeCenterCell.m; sourceTree = "<group>"; };
+		180LFX1CYP8I778GR8789UDH /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		180Y926W51313L0M6195BI20 /* WK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WK.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18107080549P77ZDPS230966 /* WKDengSpeech.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKDengSpeech.m; sourceTree = "<group>"; };
+		18121814Q53RFKFNK99CL7IK /* WKAdvancedShiyongView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKAdvancedShiyongView.xib; sourceTree = "<group>"; };
+		18124U26077U56E5719284X0 /* WKChatController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKChatController.m; sourceTree = "<group>"; };
+		18159235M0433D3DQ0B6564P /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		18213YQMH7539384939APF53 /* WKHeaderCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKHeaderCell.m; sourceTree = "<group>"; };
+		1826K142Q67G3D43E287P06Y /* WKHuan.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKHuan.m; sourceTree = "<group>"; };
+		18274I29147KS5K676A2YYT3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1827WIK683UK907H7NZ0221T /* WKLoadingController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKLoadingController.m; sourceTree = "<group>"; };
+		1828NS332PHS8X3781CJ4228 /* WKCustomView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKCustomView.m; sourceTree = "<group>"; };
+		182GKC197021I1W5673Y3DF2 /* WKPresentationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKPresentationController.h; sourceTree = "<group>"; };
+		182Y0ZTX7O93XSNH9Z944208 /* WKShiyongRegisterHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKShiyongRegisterHeader.pch; sourceTree = "<group>"; };
+		183258400193W83969H00820 /* WKCodeObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKCodeObject.m; sourceTree = "<group>"; };
+		183288974121702H0A04LYS1 /* WKCollectionDelegateCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKCollectionDelegateCell.xib; sourceTree = "<group>"; };
+		18348O7X19Q1039232560851 /* WKRegisterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKRegisterView.m; sourceTree = "<group>"; };
+		18365GJ7277Q0K06N2S576JE /* WKObjectCustomController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKObjectCustomController.h; sourceTree = "<group>"; };
+		18374GL099TE455E21479Q15 /* WKPageObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKPageObject.h; sourceTree = "<group>"; };
+		18392385984123217701R444 /* WKDetailsController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKDetailsController.m; sourceTree = "<group>"; };
+		183R32292M9B4J8367KA02R3 /* WKMainObjectController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKMainObjectController.xib; sourceTree = "<group>"; };
+		183V201TFSG7G766511D0K09 /* WKRequestAdvancedController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKRequestAdvancedController.m; sourceTree = "<group>"; };
+		183X9RXC5G245T7Q8558L2FF /* WKAdvancedShiyongView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKAdvancedShiyongView.m; sourceTree = "<group>"; };
+		183Z2063P9Z0488263B47761 /* WKRequestAdvancedController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKRequestAdvancedController.h; sourceTree = "<group>"; };
+		1840549493RE9825C7V2DMA4 /* WKPresentationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKPresentationController.m; sourceTree = "<group>"; };
+		1840N609I1Y14670020HSR94 /* WKDengController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKDengController.xib; sourceTree = "<group>"; };
+		18422Y5W17W939M2X4KBF250 /* WKEditController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKEditController.m; sourceTree = "<group>"; };
+		1846G40C742YVPZ231P97L5T /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		184B171F60JGZL6D2ICL8X62 /* WKUniversalController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKUniversalController.xib; sourceTree = "<group>"; };
+		184F33602B2C2C420086F6AA /* WKNewsCardingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKNewsCardingView.h; sourceTree = "<group>"; };
+		184F33612B2C2C420086F6AA /* WKNewsCardingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKNewsCardingView.m; sourceTree = "<group>"; };
+		184F33632B2C2C570086F6AA /* WKNewsCardingView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKNewsCardingView.xib; sourceTree = "<group>"; };
+		184K8A8B37U44L12NCN32056 /* WKDetailsView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKDetailsView.m; sourceTree = "<group>"; };
+		1851N5F6372S88F52H712788 /* WKChatController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKChatController.h; sourceTree = "<group>"; };
+		1851X74562AO8N7055882415 /* WKShiyongRegisterController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKShiyongRegisterController.h; sourceTree = "<group>"; };
+		1852522371483JEN0157Z597 /* WKAdvancedShiyongView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKAdvancedShiyongView.h; sourceTree = "<group>"; };
+		1852E7311069M93712UN8508 /* WKRegisterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKRegisterView.h; sourceTree = "<group>"; };
+		1854G2T7M5622L123C533353 /* WKShiyongRegisterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKShiyongRegisterController.xib; sourceTree = "<group>"; };
+		1858HVNUBRZDB481B29DKS0L /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		185DPN7646082Q3TB46P9G97 /* WKCodeObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKCodeObject.h; sourceTree = "<group>"; };
+		185E137329Z2O4H3O5BX0564 /* WKDengSpeech.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKDengSpeech.h; sourceTree = "<group>"; };
+		185L8L49381YQQ0V27667564 /* WKUniversalController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKUniversalController.h; sourceTree = "<group>"; };
+		18601345ZCEV0I82A1602427 /* WKHomeZuanshiCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKHomeZuanshiCell.h; sourceTree = "<group>"; };
+		1864E81632E592M905P1JL54 /* WKDetailsReusable.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKDetailsReusable.m; sourceTree = "<group>"; };
+		1867PD594HYT975B18433451 /* WKLoadingController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKLoadingController.h; sourceTree = "<group>"; };
+		186850827BZ72Z337FE4Y534 /* WKCollectionDelegateCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKCollectionDelegateCell.m; sourceTree = "<group>"; };
+		186N7PUW9G5JQ28759869S52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		186QB6F26036871DJOL51M44 /* WKTellDetailsController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKTellDetailsController.h; sourceTree = "<group>"; };
+		186Y04NR8307685Q157D8M0R /* WKHuan.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKHuan.h; sourceTree = "<group>"; };
+		187523FG15888O86459JI9U5 /* WKCollectionDelegateCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKCollectionDelegateCell.h; sourceTree = "<group>"; };
+		1877HP87A7B45107731P9O8T /* WKDengController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKDengController.m; sourceTree = "<group>"; };
+		1880237047911PA244Q0803H /* WKCustomView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKCustomView.xib; sourceTree = "<group>"; };
+		1880995N6Z6X802UXY18W45E /* WKModity.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKModity.m; sourceTree = "<group>"; };
+		188B8L9V48B858752A2I56M2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		188Y19WL9011W9411T62T6O7 /* WKPresentationController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKPresentationController.xib; sourceTree = "<group>"; };
+		188Z553Z32R3I790M5031134 /* ys_shiyong_video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ys_shiyong_video.mp4; sourceTree = "<group>"; };
+		18946R4J118E223PL2W4DC3K /* agreementReusable.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = agreementReusable.gif; sourceTree = "<group>"; };
+		1897R8KGZ5375IPD27466AL5 /* WKRegisterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKRegisterController.xib; sourceTree = "<group>"; };
+		189E465477903VGYLG95Q04C /* WKPageObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKPageObject.m; sourceTree = "<group>"; };
+		18BV83TB06XBO776G033E987 /* WKDetailsView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKDetailsView.xib; sourceTree = "<group>"; };
+		18BZP03UFE14XLGH42754F14 /* WKTellDetailsController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKTellDetailsController.xib; sourceTree = "<group>"; };
+		18D00L3M4133009123980I4Y /* WKChatController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKChatController.xib; sourceTree = "<group>"; };
+		18D405N914U9157636F902G1 /* WKHomeZuanshiCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKHomeZuanshiCell.m; sourceTree = "<group>"; };
+		18DVR0777178HSTR6C0F6I62 /* WKObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKObject.h; sourceTree = "<group>"; };
+		18E30083E5122X37YQE48976 /* WKDetailsController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKDetailsController.xib; sourceTree = "<group>"; };
+		18F2E7922B35619800B3063E /* WKNewsUploadController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKNewsUploadController.h; sourceTree = "<group>"; };
+		18F2E7932B35619800B3063E /* WKNewsUploadController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKNewsUploadController.m; sourceTree = "<group>"; };
+		18F2E7942B35619800B3063E /* WKNewsUploadController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKNewsUploadController.xib; sourceTree = "<group>"; };
+		18F2E7972B356A9200B3063E /* WKNewsWarningBoxView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKNewsWarningBoxView.h; sourceTree = "<group>"; };
+		18F2E7982B356A9200B3063E /* WKNewsWarningBoxView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKNewsWarningBoxView.m; sourceTree = "<group>"; };
+		18F2E79A2B356A9A00B3063E /* WKNewsWarningBoxView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKNewsWarningBoxView.xib; sourceTree = "<group>"; };
+		18HTA1I941AN118341OF48L1 /* WKCodeCenterCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKCodeCenterCell.xib; sourceTree = "<group>"; };
+		18I181E720D9O0H51186U358 /* WKLoadingController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKLoadingController.xib; sourceTree = "<group>"; };
+		18I1Z9T20JB13834522RA1M4 /* WKNewsNewsController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKNewsNewsController.m; sourceTree = "<group>"; };
+		18J27B139G955062WH6249B5 /* WKRegisterController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKRegisterController.m; sourceTree = "<group>"; };
+		18J4DLRKB36N9ZB8300ZZ211 /* WKYingLoadingController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKYingLoadingController.m; sourceTree = "<group>"; };
+		18LLEHHW3E95BL2U2U97M2W9 /* WKObjectCustomController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKObjectCustomController.xib; sourceTree = "<group>"; };
+		18N10E290Z5F30VCV9R2386G /* WKCustomView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKCustomView.h; sourceTree = "<group>"; };
+		18NB1473984ZSJ9T72M006YY /* WKYingLoadingController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKYingLoadingController.h; sourceTree = "<group>"; };
+		18NOOL49XNT47348AM11M408 /* WKDetailsController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKDetailsController.h; sourceTree = "<group>"; };
+		18O768LR19J545UC6F0924FD /* WKMainObjectController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKMainObjectController.h; sourceTree = "<group>"; };
+		18OR4022B1291688A5L6M53R /* WKObjectCustomController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKObjectCustomController.m; sourceTree = "<group>"; };
+		18P4W023216234E01985U328 /* WKObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKObject.m; sourceTree = "<group>"; };
+		18PU4495046H5970P42384S9 /* WKHeaderCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKHeaderCell.xib; sourceTree = "<group>"; };
+		18PX3IEPU39628DEON17F658 /* WKDengController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKDengController.h; sourceTree = "<group>"; };
+		18QHV2514WC1U6EZ0139R421 /* WKRequestAdvancedController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKRequestAdvancedController.xib; sourceTree = "<group>"; };
+		18R0535S36U064D57MV32420 /* WKHomeZuanshiCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKHomeZuanshiCell.xib; sourceTree = "<group>"; };
+		18R32156A59L59P1565P62GF /* WKEditController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKEditController.h; sourceTree = "<group>"; };
+		18S04W84273104894OJ23667 /* WKEditController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WKEditController.xib; sourceTree = "<group>"; };
+		18SD57968P293000983R1666 /* WKMainObjectController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKMainObjectController.m; sourceTree = "<group>"; };
+		18U2UG77E215KZ5237O833B1 /* WKNewsNewsController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKNewsNewsController.h; sourceTree = "<group>"; };
+		18UM31W5UNY95X22131ZG2LV /* WKDetailsReusable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKDetailsReusable.h; sourceTree = "<group>"; };
+		18V2A5134FFA474NC7Z6881I /* WKCodeCenterCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKCodeCenterCell.h; sourceTree = "<group>"; };
+		18X6S5A5AHYG499G611R1765 /* WKShiyongRegisterController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKShiyongRegisterController.m; sourceTree = "<group>"; };
+		18YVP6660R6ZM7Q2O46B3382 /* WKHeaderCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKHeaderCell.h; sourceTree = "<group>"; };
+		38803O79LYR51DX89808V951 /* Pods-WK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WK.debug.xcconfig"; path = "Target Support Files/Pods-WK/Pods-WK.debug.xcconfig"; sourceTree = "<group>"; };
+		55KC86236A0F81V6Z46777E6 /* Pods-WK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WK.release.xcconfig"; path = "Target Support Files/Pods-WK/Pods-WK.release.xcconfig"; sourceTree = "<group>"; };
+		ADP4298PWC858E215636H7P2 /* WKVideoYingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKVideoYingView.h; sourceTree = "<group>"; };
+		AE42P7028W5XY2411845S44U /* WKToolHuanView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKToolHuanView.m; sourceTree = "<group>"; };
+		APKQ8690M95L15WA0L459141 /* WKEvaluateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKEvaluateView.m; sourceTree = "<group>"; };
+		DB06O3617Y06J5I8N51I196D /* WKDelegateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKDelegateView.h; sourceTree = "<group>"; };
+		ME0L8B2U30668OU24483129U /* WKRequestView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKRequestView.h; sourceTree = "<group>"; };
+		MG19WTL1XH0D181ZA001125V /* WKDialogueObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKDialogueObject.m; sourceTree = "<group>"; };
+		MT6522U48ACB850P009V746U /* WKRequestObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKRequestObject.m; sourceTree = "<group>"; };
+		OA11T177LD9J90P35N00385I /* WKRequestView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKRequestView.m; sourceTree = "<group>"; };
+		RS53X5282A415787651D83MP /* WKEvaluateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKEvaluateView.h; sourceTree = "<group>"; };
+		RV64XW2L5043EYJ9IZZ2W276 /* WKDialogueObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKDialogueObject.h; sourceTree = "<group>"; };
+		UT430FG928438135UA836KE1 /* WKAnswerHeaderObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKAnswerHeaderObject.h; sourceTree = "<group>"; };
+		VA99438494A7Y5M97F184B63 /* WKRequestObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKRequestObject.h; sourceTree = "<group>"; };
+		WP11F98B784973543JS4Q555 /* WKToolHuanView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKToolHuanView.h; sourceTree = "<group>"; };
+		WZ0193L3877062N75886549Z /* WKAnswerHeaderObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKAnswerHeaderObject.m; sourceTree = "<group>"; };
+		XH7RYD76453939R78S0O5355 /* WKDelegateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKDelegateView.m; sourceTree = "<group>"; };
+		YI4M193ZG3419XJ64C5CZ72Q /* WKVideoYingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKVideoYingView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		185JZFN3S83N3679KFVO8456 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2B1U8T6V6610797QQ720Z457 /* Pods_WK.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1805445H951050029609J076 /* WKDetails */ = {
+			isa = PBXGroup;
+			children = (
+				1851N5F6372S88F52H712788 /* WKChatController.h */,
+				18124U26077U56E5719284X0 /* WKChatController.m */,
+				18D00L3M4133009123980I4Y /* WKChatController.xib */,
+			);
+			path = WKDetails;
+			sourceTree = "<group>";
+		};
+		1837436K0727WN71F2612D7X /* WKTools */ = {
+			isa = PBXGroup;
+			children = (
+				18FR8T075N5272617636WN00 /* WKrequestClass */,
+				182Y0ZTX7O93XSNH9Z944208 /* WKShiyongRegisterHeader.pch */,
+				18374GL099TE455E21479Q15 /* WKPageObject.h */,
+				189E465477903VGYLG95Q04C /* WKPageObject.m */,
+				186Y04NR8307685Q157D8M0R /* WKHuan.h */,
+				1826K142Q67G3D43E287P06Y /* WKHuan.m */,
+				1801I6435C6308472K3U38K6 /* WKModity.h */,
+				1880995N6Z6X802UXY18W45E /* WKModity.m */,
+				185E137329Z2O4H3O5BX0564 /* WKDengSpeech.h */,
+				18107080549P77ZDPS230966 /* WKDengSpeech.m */,
+				185DPN7646082Q3TB46P9G97 /* WKCodeObject.h */,
+				183258400193W83969H00820 /* WKCodeObject.m */,
+			);
+			path = WKTools;
+			sourceTree = "<group>";
+		};
+		183C49DJSJ5Z587QXD73971C /* WKZuanshi */ = {
+			isa = PBXGroup;
+			children = (
+				18U2UG77E215KZ5237O833B1 /* WKNewsNewsController.h */,
+				18I1Z9T20JB13834522RA1M4 /* WKNewsNewsController.m */,
+				1804754C0741669542PL7O15 /* WKNewsNewsController.xib */,
+				18YVP6660R6ZM7Q2O46B3382 /* WKHeaderCell.h */,
+				18213YQMH7539384939APF53 /* WKHeaderCell.m */,
+				18PU4495046H5970P42384S9 /* WKHeaderCell.xib */,
+				1852522371483JEN0157Z597 /* WKAdvancedShiyongView.h */,
+				183X9RXC5G245T7Q8558L2FF /* WKAdvancedShiyongView.m */,
+				18121814Q53RFKFNK99CL7IK /* WKAdvancedShiyongView.xib */,
+				184F33602B2C2C420086F6AA /* WKNewsCardingView.h */,
+				184F33612B2C2C420086F6AA /* WKNewsCardingView.m */,
+				184F33632B2C2C570086F6AA /* WKNewsCardingView.xib */,
+				183Z2063P9Z0488263B47761 /* WKRequestAdvancedController.h */,
+				183V201TFSG7G766511D0K09 /* WKRequestAdvancedController.m */,
+				18QHV2514WC1U6EZ0139R421 /* WKRequestAdvancedController.xib */,
+				18F2E7922B35619800B3063E /* WKNewsUploadController.h */,
+				18F2E7932B35619800B3063E /* WKNewsUploadController.m */,
+				18F2E7942B35619800B3063E /* WKNewsUploadController.xib */,
+				18F2E7972B356A9200B3063E /* WKNewsWarningBoxView.h */,
+				18F2E7982B356A9200B3063E /* WKNewsWarningBoxView.m */,
+				18F2E79A2B356A9A00B3063E /* WKNewsWarningBoxView.xib */,
+			);
+			path = WKZuanshi;
+			sourceTree = "<group>";
+		};
+		186856O0F6ZNQGL7I1S73E2Q /* WKDialogue */ = {
+			isa = PBXGroup;
+			children = (
+				185L8L49381YQQ0V27667564 /* WKUniversalController.h */,
+				1801I2LEW82I093652027524 /* WKUniversalController.m */,
+				184B171F60JGZL6D2ICL8X62 /* WKUniversalController.xib */,
+				18082G5U7057U52VC19400PV /* WKRegisterController.h */,
+				18J27B139G955062WH6249B5 /* WKRegisterController.m */,
+				1897R8KGZ5375IPD27466AL5 /* WKRegisterController.xib */,
+				1851X74562AO8N7055882415 /* WKShiyongRegisterController.h */,
+				18X6S5A5AHYG499G611R1765 /* WKShiyongRegisterController.m */,
+				1854G2T7M5622L123C533353 /* WKShiyongRegisterController.xib */,
+				18N10E290Z5F30VCV9R2386G /* WKCustomView.h */,
+				1828NS332PHS8X3781CJ4228 /* WKCustomView.m */,
+				1880237047911PA244Q0803H /* WKCustomView.xib */,
+				18601345ZCEV0I82A1602427 /* WKHomeZuanshiCell.h */,
+				18D405N914U9157636F902G1 /* WKHomeZuanshiCell.m */,
+				18R0535S36U064D57MV32420 /* WKHomeZuanshiCell.xib */,
+				18V2A5134FFA474NC7Z6881I /* WKCodeCenterCell.h */,
+				180D7D9210HY0D001RJ4U445 /* WKCodeCenterCell.m */,
+				18HTA1I941AN118341OF48L1 /* WKCodeCenterCell.xib */,
+			);
+			path = WKDialogue;
+			sourceTree = "<group>";
+		};
+		18741R3S164H4SX1M197KP27 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				180Y926W51313L0M6195BI20 /* WK.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1889ME58N3T044K2Y3406517 = {
+			isa = PBXGroup;
+			children = (
+				18W21TV2572U2TDP462675SR /* WK */,
+				18741R3S164H4SX1M197KP27 /* Products */,
+				44XC30WG31171G5412M95386 /* Pods */,
+				E9833AL61IZ488828X325NXO /* Frameworks */,
+				CYY2QJ4P29777A8GRU8B083G /* elliptic */,
+			);
+			sourceTree = "<group>";
+		};
+		18FR8T075N5272617636WN00 /* WKrequestClass */ = {
+			isa = PBXGroup;
+			children = (
+				18DVR0777178HSTR6C0F6I62 /* WKObject.h */,
+				18P4W023216234E01985U328 /* WKObject.m */,
+				18UM31W5UNY95X22131ZG2LV /* WKDetailsReusable.h */,
+				1864E81632E592M905P1JL54 /* WKDetailsReusable.m */,
+			);
+			path = WKrequestClass;
+			sourceTree = "<group>";
+		};
+		18W21TV2572U2TDP462675SR /* WK */ = {
+			isa = PBXGroup;
+			children = (
+				1858HVNUBRZDB481B29DKS0L /* AppDelegate.h */,
+				18159235M0433D3DQ0B6564P /* AppDelegate.m */,
+				1837436K0727WN71F2612D7X /* WKTools */,
+				182GKC197021I1W5673Y3DF2 /* WKPresentationController.h */,
+				1840549493RE9825C7V2DMA4 /* WKPresentationController.m */,
+				188Y19WL9011W9411T62T6O7 /* WKPresentationController.xib */,
+				186QB6F26036871DJOL51M44 /* WKTellDetailsController.h */,
+				1809827120MO813363H625C3 /* WKTellDetailsController.m */,
+				18BZP03UFE14XLGH42754F14 /* WKTellDetailsController.xib */,
+				1809V2E6I85CEA8461P46796 /* WKDetailsView.h */,
+				184K8A8B37U44L12NCN32056 /* WKDetailsView.m */,
+				18BV83TB06XBO776G033E987 /* WKDetailsView.xib */,
+				18NOOL49XNT47348AM11M408 /* WKDetailsController.h */,
+				18392385984123217701R444 /* WKDetailsController.m */,
+				18E30083E5122X37YQE48976 /* WKDetailsController.xib */,
+				186856O0F6ZNQGL7I1S73E2Q /* WKDialogue */,
+				1867PD594HYT975B18433451 /* WKLoadingController.h */,
+				1827WIK683UK907H7NZ0221T /* WKLoadingController.m */,
+				18I181E720D9O0H51186U358 /* WKLoadingController.xib */,
+				1852E7311069M93712UN8508 /* WKRegisterView.h */,
+				18348O7X19Q1039232560851 /* WKRegisterView.m */,
+				1805445H951050029609J076 /* WKDetails */,
+				183C49DJSJ5Z587QXD73971C /* WKZuanshi */,
+				18R32156A59L59P1565P62GF /* WKEditController.h */,
+				18422Y5W17W939M2X4KBF250 /* WKEditController.m */,
+				18S04W84273104894OJ23667 /* WKEditController.xib */,
+				187523FG15888O86459JI9U5 /* WKCollectionDelegateCell.h */,
+				186850827BZ72Z337FE4Y534 /* WKCollectionDelegateCell.m */,
+				183288974121702H0A04LYS1 /* WKCollectionDelegateCell.xib */,
+				18365GJ7277Q0K06N2S576JE /* WKObjectCustomController.h */,
+				18OR4022B1291688A5L6M53R /* WKObjectCustomController.m */,
+				18LLEHHW3E95BL2U2U97M2W9 /* WKObjectCustomController.xib */,
+				18O768LR19J545UC6F0924FD /* WKMainObjectController.h */,
+				18SD57968P293000983R1666 /* WKMainObjectController.m */,
+				183R32292M9B4J8367KA02R3 /* WKMainObjectController.xib */,
+				18PX3IEPU39628DEON17F658 /* WKDengController.h */,
+				1877HP87A7B45107731P9O8T /* WKDengController.m */,
+				1840N609I1Y14670020HSR94 /* WKDengController.xib */,
+				18NB1473984ZSJ9T72M006YY /* WKYingLoadingController.h */,
+				18J4DLRKB36N9ZB8300ZZ211 /* WKYingLoadingController.m */,
+				1817E53F931P1QA100P92GJ7 /* Main.storyboard */,
+				188Z553Z32R3I790M5031134 /* ys_shiyong_video.mp4 */,
+				1846G40C742YVPZ231P97L5T /* Assets.xcassets */,
+				18946R4J118E223PL2W4DC3K /* agreementReusable.gif */,
+				1858G0029A1L0003557522OW /* LaunchScreen.storyboard */,
+				186N7PUW9G5JQ28759869S52 /* Info.plist */,
+				18274I29147KS5K676A2YYT3 /* main.m */,
+			);
+			path = WK;
+			sourceTree = "<group>";
+		};
+		44XC30WG31171G5412M95386 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				38803O79LYR51DX89808V951 /* Pods-WK.debug.xcconfig */,
+				55KC86236A0F81V6Z46777E6 /* Pods-WK.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		CYY2QJ4P29777A8GRU8B083G /* elliptic */ = {
+			isa = PBXGroup;
+			children = (
+				APKQ8690M95L15WA0L459141 /* WKEvaluateView.m */,
+				RS53X5282A415787651D83MP /* WKEvaluateView.h */,
+				AE42P7028W5XY2411845S44U /* WKToolHuanView.m */,
+				WP11F98B784973543JS4Q555 /* WKToolHuanView.h */,
+				YI4M193ZG3419XJ64C5CZ72Q /* WKVideoYingView.m */,
+				ADP4298PWC858E215636H7P2 /* WKVideoYingView.h */,
+				XH7RYD76453939R78S0O5355 /* WKDelegateView.m */,
+				DB06O3617Y06J5I8N51I196D /* WKDelegateView.h */,
+				WZ0193L3877062N75886549Z /* WKAnswerHeaderObject.m */,
+				UT430FG928438135UA836KE1 /* WKAnswerHeaderObject.h */,
+				MG19WTL1XH0D181ZA001125V /* WKDialogueObject.m */,
+				RV64XW2L5043EYJ9IZZ2W276 /* WKDialogueObject.h */,
+				MT6522U48ACB850P009V746U /* WKRequestObject.m */,
+				VA99438494A7Y5M97F184B63 /* WKRequestObject.h */,
+				OA11T177LD9J90P35N00385I /* WKRequestView.m */,
+				ME0L8B2U30668OU24483129U /* WKRequestView.h */,
+			);
+			path = elliptic;
+			sourceTree = "<group>";
+		};
+		E9833AL61IZ488828X325NXO /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				14Z3X0H5UM974380QD1B3178 /* Pods_WK.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1868827901592042N32S37NQ /* WK */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18Q5RE5S8364EB78M85Q2777 /* Build configuration list for PBXNativeTarget "WK" */;
+			buildPhases = (
+				060KEIRA4696422W6202172M /* [CP] Check Pods Manifest.lock */,
+				182BQ0W9AX1FWMXQ92R5S659 /* Sources */,
+				185JZFN3S83N3679KFVO8456 /* Frameworks */,
+				18I27D4FC38Y4H672E868IGZ /* Resources */,
+				2D71A2X8WECQ04288770N747 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WK;
+			productName = WK;
+			productReference = 180Y926W51313L0M6195BI20 /* WK.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18D64MR3649891LX952I0U42 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					1868827901592042N32S37NQ = {
+						CreatedOnToolsVersion = 14.0;
+					};
+				};
+			};
+			buildConfigurationList = 189094J9332J55589R81B8B4 /* Build configuration list for PBXProject "WK" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1889ME58N3T044K2Y3406517;
+			productRefGroup = 18741R3S164H4SX1M197KP27 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1868827901592042N32S37NQ /* WK */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18I27D4FC38Y4H672E868IGZ /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18F2E79B2B356A9A00B3063E /* WKNewsWarningBoxView.xib in Resources */,
+				189VABS7548542F1P8567E43 /* WKCollectionDelegateCell.xib in Resources */,
+				18B96502034S821BK60F2H9H /* WKMainObjectController.xib in Resources */,
+				18J2HNQ2962124TC19859927 /* WKRequestAdvancedController.xib in Resources */,
+				181602B3601IZ5Q724O332M6 /* WKRegisterController.xib in Resources */,
+				18Z631O27Z770PE014Z5JW86 /* WKAdvancedShiyongView.xib in Resources */,
+				1829R389ZLWA693527Z79Y5G /* WKEditController.xib in Resources */,
+				18O2119G4F1ZET102P583Y10 /* WKDetailsController.xib in Resources */,
+				18Y44342041143HY487R1161 /* LaunchScreen.storyboard in Resources */,
+				1830QJ0529K983160K332E16 /* WKPresentationController.xib in Resources */,
+				188684S9762XK6W7R14Z03AE /* WKDengController.xib in Resources */,
+				183O974E3E68159499I4QW62 /* WKLoadingController.xib in Resources */,
+				185BDC4P401955MXD800FQ03 /* WKNewsNewsController.xib in Resources */,
+				180ALE06243398C152T66531 /* WKUniversalController.xib in Resources */,
+				189V7282LUR003634S1424MB /* WKCodeCenterCell.xib in Resources */,
+				1870CI58W986530310C71A93 /* WKTellDetailsController.xib in Resources */,
+				18F2E7962B35619800B3063E /* WKNewsUploadController.xib in Resources */,
+				182J4055EE861TK638361968 /* WKCustomView.xib in Resources */,
+				18207W85R62E59873S28NGV2 /* WKHeaderCell.xib in Resources */,
+				1860081Y97GL023OR98V3903 /* Assets.xcassets in Resources */,
+				184F33642B2C2C570086F6AA /* WKNewsCardingView.xib in Resources */,
+				1870473L42KN731IY201SO0Y /* Main.storyboard in Resources */,
+				18226525V7609CTNQ18QE90T /* WKDetailsView.xib in Resources */,
+				18G1FDO261T9E7J5506PEH8V /* WKObjectCustomController.xib in Resources */,
+				18A30445F81782GG958X4I97 /* WKShiyongRegisterController.xib in Resources */,
+				18057888FB08Z2K7043W7LE5 /* WKChatController.xib in Resources */,
+				189C738159762IG9600533V1 /* agreementReusable.gif in Resources */,
+				18Z06SB460901C60L2548Z18 /* WKHomeZuanshiCell.xib in Resources */,
+				180G84188F5Y450316872E01 /* ys_shiyong_video.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		060KEIRA4696422W6202172M /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WK-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2D71A2X8WECQ04288770N747 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WK/Pods-WK-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		182BQ0W9AX1FWMXQ92R5S659 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18ZPQ2E44NE5G26A04SWS6L3 /* WKMainObjectController.m in Sources */,
+				18R4Z15B3660059NRB0B8091 /* WKYingLoadingController.m in Sources */,
+				18061B2K2123D1D9K8158828 /* WKModity.m in Sources */,
+				180VYEE03711A90313G414S0 /* WKChatController.m in Sources */,
+				18Z7TB749T17AA78963RYU17 /* WKTellDetailsController.m in Sources */,
+				18D718J5042H1I06274A4C45 /* WKEditController.m in Sources */,
+				182P9E039I3QW02T75H72ZO5 /* WKNewsNewsController.m in Sources */,
+				1850H88328V18199RM6955X0 /* WKLoadingController.m in Sources */,
+				1841455Q38324S4KX7551L2Z /* WKDetailsView.m in Sources */,
+				1856G1O41U567EE72M095P45 /* WKUniversalController.m in Sources */,
+				18A2638IRQ75UW8977050O7B /* WKPresentationController.m in Sources */,
+				18K919ILR0640F85S3309U64 /* WKPageObject.m in Sources */,
+				184895XWT17L6323S7919983 /* WKDetailsController.m in Sources */,
+				1885R3KQP38G81D93F75FB23 /* WKHeaderCell.m in Sources */,
+				1807FQ287WG5ULD9B0211164 /* WKCodeCenterCell.m in Sources */,
+				189447E3639W35OR054WQ5TW /* AppDelegate.m in Sources */,
+				1845RS87IJ68R25GV8X76XZ0 /* WKDetailsReusable.m in Sources */,
+				18Q2S7Z0R6DS5A9485U5L671 /* WKDengController.m in Sources */,
+				18VH3H1H0913369920N6933A /* WKAdvancedShiyongView.m in Sources */,
+				18V7X849265E7H527010KBP3 /* WKRegisterView.m in Sources */,
+				18JXW26I553Y01O04U5E4GB6 /* WKRegisterController.m in Sources */,
+				18242425WR8LA3757J7W47F1 /* WKShiyongRegisterController.m in Sources */,
+				18K80A92427MT5773H566174 /* WKDengSpeech.m in Sources */,
+				18W1QD71A3L1Y313XS5E5SKJ /* WKRequestAdvancedController.m in Sources */,
+				18B012W4237V04I2925A9643 /* WKHuan.m in Sources */,
+				1873U2N2O852C3CHA9EY232G /* main.m in Sources */,
+				18614I2348T30RZ1V5758UH6 /* WKCustomView.m in Sources */,
+				189449E9I4TNBG9I178Y4X58 /* WKObject.m in Sources */,
+				18F2E7992B356A9200B3063E /* WKNewsWarningBoxView.m in Sources */,
+				184G450B38YL8686656NZ22G /* WKCollectionDelegateCell.m in Sources */,
+				183UUMAI2VB8I577736SJ1Y7 /* WKObjectCustomController.m in Sources */,
+				187824407M195D99MF0G9745 /* WKHomeZuanshiCell.m in Sources */,
+				18F2E7952B35619800B3063E /* WKNewsUploadController.m in Sources */,
+				18E5642P2V8062316AF77501 /* WKCodeObject.m in Sources */,
+				UJEZ938H0V09Z6H77CZ3GJ02 /* WKEvaluateView.m in Sources */,
+				XOE93450QGR7285V87VL572Q /* WKToolHuanView.m in Sources */,
+				RS2PX7759D9Z64389KW935Y6 /* WKVideoYingView.m in Sources */,
+				BX67581020F44213WP1618U4 /* WKDelegateView.m in Sources */,
+				NN4A1F95HZ98JWD95379G50S /* WKAnswerHeaderObject.m in Sources */,
+				184F33622B2C2C420086F6AA /* WKNewsCardingView.m in Sources */,
+				MW4O1041239V15839JF5832O /* WKDialogueObject.m in Sources */,
+				EL604350K6HO240BP72Y6TW5 /* WKRequestObject.m in Sources */,
+				JE7156IQ54060539024987CM /* WKRequestView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1817E53F931P1QA100P92GJ7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				180LFX1CYP8I778GR8789UDH /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1858G0029A1L0003557522OW /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				188B8L9V48B858752A2I56M2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		180E1939785D9LK04EA7186N /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		181R2R03X23O01984I2524JJ /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55KC86236A0F81V6Z46777E6 /* Pods-WK.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 82NHL824BQ;
+				GCC_PREFIX_HEADER = WK/WKTools/WKShiyongRegisterHeader.pch;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WK/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "人工智能";
+				INFOPLIST_KEY_NSCameraUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yhxy.ChatGptTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = chatgpt_dev_0425;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		18248R433F052D52SZS32193 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		183W4P727M60487250K3581X /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38803O79LYR51DX89808V951 /* Pods-WK.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 82NHL824BQ;
+				GCC_PREFIX_HEADER = WK/WKTools/WKShiyongRegisterHeader.pch;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = WK/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "人工智能";
+				INFOPLIST_KEY_NSCameraUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "APP想访问您的相册，才能上传图片";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yhxy.ChatGptTest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = chatgpt_dev_0425;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		189094J9332J55589R81B8B4 /* Build configuration list for PBXProject "WK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18248R433F052D52SZS32193 /* Debug */,
+				180E1939785D9LK04EA7186N /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18Q5RE5S8364EB78M85Q2777 /* Build configuration list for PBXNativeTarget "WK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				183W4P727M60487250K3581X /* Debug */,
+				181R2R03X23O01984I2524JJ /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18D64MR3649891LX952I0U42 /* Project object */;
+}

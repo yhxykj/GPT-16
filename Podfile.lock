@@ -1,0 +1,62 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (6.5.11)
+  - SAMKeychain (1.5.3)
+  - SDAutoLayout (2.1.9)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - SocketRocket (0.6.0)
+  - SVProgressHUD (2.2.5)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - IQKeyboardManager
+  - SAMKeychain
+  - SDAutoLayout (~> 2.1.7)
+  - SDWebImage
+  - SocketRocket
+  - SVProgressHUD
+  - YYCategories
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - IQKeyboardManager
+    - SAMKeychain
+    - SDAutoLayout
+    - SDWebImage
+    - SocketRocket
+    - SVProgressHUD
+    - YYCategories
+
+SPEC CHECKSUMS:
+  AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
+  IQKeyboardManager: ef43ce1ba1e5aaf4adf222c0a46f39761f246879
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SDAutoLayout: 6b6f4db0d009dfc46cef14ef710dbb164e86616c
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+
+PODFILE CHECKSUM: 297e421b3b600cbbad6c7ab66686f7c49c914a39
+
+COCOAPODS: 1.11.3
